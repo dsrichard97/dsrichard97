@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsrichard97&label=Profile%20views&color=0e75b6&style=flat" alt="dsrichard97" /> </p>
 
-- 🔭 I’m currently working on [Outputting most of my projects on Tableau and PowerBI](https://github.com/dsrichard97/Project1_RegressionSTAT510)
+- 🔭 I’m currently working on **Outputting most of my projects on Tableau and PowerBI**
 
 - 🌱 I’m currently learning **Machine Learning by Andrew Ng (Coursera)**
 
@@ -35,4 +35,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrichard97&show_icons=true&locale=en&layout=compact" alt="dsrichard97" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsrichard97&" alt="dsrichard97" /></p>
-

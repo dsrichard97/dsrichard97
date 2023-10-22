@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsrichard97&label=Profile%20views&color=0e75b6&style=flat" alt="dsrichard97" /> </p>
 
-- 🔭 I’m currently working on **Outputting most of my projects on Tableau and PowerBI**
+- 🔭 I’m currently working on **Learning on the web the most up to data methods in data science and writting on Medium - any recommendations help!**
 
 - 🌱 I’m currently learning **Machine Learning by Andrew Ng (Coursera)**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ](https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ)
 
-- ⚡ Fun fact **I am currently learning genomics, biostatistics, and research reports at CSULB.**
+- ⚡ Fun fact **I love to play chess and the gym.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

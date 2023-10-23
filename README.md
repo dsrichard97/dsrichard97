@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C5EF7&random=false&width=435&lines=Data+Scientist+%26+A.I.+Enthusiast" alt="Typing SVG" /></a>
 
 <div align="center">
-<a href="https://github.com/yusufcinarci" target="_blank">
+<a href="https://github.com/dsrichard97" target="_blank">
    <img height="26px" src="https://komarev.com/ghpvc/?username=yusufcinarci&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">

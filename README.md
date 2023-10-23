@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **machine learning by Andrew Ng (Coursera).**
 
-- 👯 I’m have worked on [NVDA & ASML Stock Price](https://github.com/dsrichard97/project2_montecarlosim)
+- 👯 I have worked on [NVDA & ASML Stock Price](https://github.com/dsrichard97/project2_montecarlosim)
 
 - 🤝 I’m looking for help with **neural networks and biostatistics research.**
 

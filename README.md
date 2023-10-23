@@ -44,7 +44,7 @@
 
 - 📄 Know about my experiences [https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ](https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ)
 
-- ⚡ Fun fact **I love to learn about stochastics processes, multi-dimensional spaces, and time series.**
+- ⚡ Fun fact **I love to learn about stochastics processes and multivariate time series.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

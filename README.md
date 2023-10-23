@@ -26,13 +26,13 @@
 
 
 
-- 🔭 I’m currently working on **Learning on the web the most up to data methods in data science and writting on Medium - any recommendations help!**
+- 🔭 I’m currently working on **strengthning my machine learning and deep learning skills.**
 
-- 🌱 I’m currently learning **Machine Learning by Andrew Ng (Coursera)**
+- 🌱 I’m currently learning **machine learning by Andrew Ng (Coursera).**
 
 - 👯 I’m have worked on [NVDA & ASML Stock Price](https://github.com/dsrichard97/project2_montecarlosim)
 
-- 🤝 I’m looking for help with **Neural Network Research**
+- 🤝 I’m looking for help with **neural networks and biostatistics research.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsrichard97/portfolio](https://github.com/dsrichard97/portfolio)
 

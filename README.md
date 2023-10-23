@@ -25,7 +25,6 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsrichard97&label=Profile%20views&color=0e75b6&style=flat" alt="dsrichard97" /> </p>
 
 - 🔭 I’m currently working on **Learning on the web the most up to data methods in data science and writting on Medium - any recommendations help!**
 

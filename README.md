@@ -3,6 +3,27 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C5EF7&random=false&width=435&lines=Data+Scientist+%26+A.I.+Enthusiast" alt="Typing SVG" /></a>
 
+<div align="center">
+<a href="https://github.com/yusufcinarci" target="_blank">
+   <img height="26px" src="https://komarev.com/ghpvc/?username=yusufcinarci&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=0e76a8&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+<a href="diazrichard98@gmail.com" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Gmail-dc143c?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+   </a>
+<a href="https://www.kaggle.com/richarddiaz" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Kaggle-00CCFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
+   </a>
+<a href="https://discord.gg/qJKpT2yt" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Discord-7289d9?style=flat&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
+   </a>
+
+ </div> 
+&nbsp;
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dsrichard97&label=Profile%20views&color=0e75b6&style=flat" alt="dsrichard97" /> </p>
 

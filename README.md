@@ -44,7 +44,7 @@
 
 - 📄 Know about my experiences [https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ](https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ)
 
-- ⚡ Fun fact **I love to play chess and the gym.**
+- ⚡ Fun fact **I love to play chess and working out.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

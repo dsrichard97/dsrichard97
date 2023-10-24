@@ -34,7 +34,7 @@ I am currently pursuing a graduate degree in Applied Statistics at California St
 
 - 👯 I have worked on [NVDA & ASML Stock Price](https://github.com/dsrichard97/project2_montecarlosim)
 
-- 🤝 I’m looking for help with **neural networks and biostatistics research.**
+- 🤝 I’m looking for help with **biostatistics research.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsrichard97/portfolio](https://github.com/dsrichard97/portfolio)
 

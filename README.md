@@ -5,7 +5,7 @@
 
 <div align="center">
 <a href="https://github.com/dsrichard97" target="_blank">
-   <img height="26px" src="https://komarev.com/ghpvc/?username=yusufcinarci&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
+   <img height="26px" src="https://komarev.com/ghpvc/dsrichard97&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=0e76a8&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />

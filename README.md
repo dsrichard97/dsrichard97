@@ -28,7 +28,7 @@ I am currently pursuing a graduate degree in Applied Statistics at California St
 
 
 
-- 🔭 I’m currently working on **strengthning my machine learning and deep learning skills.**
+- 🔭 I’m currently working on **machine learning and deep learning skills.**
 
 - 🌱 I’m currently learning **machine learning by Andrew Ng (Coursera).**
 
@@ -40,7 +40,7 @@ I am currently pursuing a graduate degree in Applied Statistics at California St
 
 - 📝 I regularly write articles on [https://medium.com/@diazrichard98](https://medium.com/@diazrichard98)
 
-- 💬 Ask me about **Python, R, and Tableau**
+- 💬 Ask me about **SQL, Python, R, and Tableau**
 
 - 📫 How to reach me **Richard.Diazdeleon01@student.csulb.edu**
 

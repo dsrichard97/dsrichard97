@@ -23,6 +23,8 @@
  </div> 
 &nbsp;
 
+### 🚀 About Me
+I am currently pursuing a graduate degree in Applied Statistics at California State University, Long Beach, with a keen interest in machine learning, deep learning, and data analytics. My academic curiosity also extends to stochastic processes and multivariate time series analysis. I earned my undergraduate degree in Applied Mathematics from California State University, Fullerton, where I delved into economic modeling, mathematical modeling, and partial differential equations. Recently, my enthusiasm has steered towards research, particularly in the realms of optimization and neural networks. Residing in Orange County, CA, I am ardently seeking opportunities to further my knowledge and excel in the field of data science.
 
 
 

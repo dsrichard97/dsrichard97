@@ -26,7 +26,10 @@
 
 
 <h3 align="center"> 🚀 About Me</h3>
-I am currently pursuing a graduate degree in Applied Statistics at California State University, Long Beach, with a keen interest in machine learning, deep learning, and data analytics. My academic curiosity also extends to stochastic processes and multivariate time series analysis. I earned my undergraduate degree in Applied Mathematics from California State University, Fullerton, where I delved into economic modeling, mathematical modeling, and partial differential equations. Recently, my enthusiasm has steered towards research, particularly in the realms of optimization and neural networks. Residing in Orange County, CA, I am ardently seeking opportunities to further my knowledge and excel in the field of data science.
+
+
+I am Richard, a seasoned mathematician adept at using statistical programming to uncover valuable insights from complex data sets. My hands-on experience from internships has made me proficient with tools like Tableau, SQL, and Excel, which I use to create engaging visualizations and conduct thorough data analysis. In the field of financial analysis, my skills in statistical techniques have been crucial for identifying financial trends, assessing risks, and offering data-driven recommendations to enhance financial performance. Moreover, my work in the healthcare sector has equipped me with a good understanding of healthcare processes, patient outcomes, and operational efficiencies. I always adhere to best data practices to ensure the reliability and accuracy of my analyses. Combining advanced data analytics tools with a solid understanding of both financial and healthcare domains, I am committed to transforming raw data into insights that aid in informed decision-making.
+
 
 
 <h3 align="center"> 📝 Current Works</h3>

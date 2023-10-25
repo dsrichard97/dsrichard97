@@ -32,7 +32,8 @@ I am Richard, a seasoned mathematician adept at using statistical programming to
 
 
 
-<h3 align="center"> 📝 Current Works</h3>
+<h1 align="center"> 📝 Current Works</h1>
+
 - 🔭 I’m currently working on **machine learning and deep learning skills.**
 
 - 🌱 I’m currently learning **machine learning by Andrew Ng (Coursera).**

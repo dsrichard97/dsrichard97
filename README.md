@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Richard DiazDeLeon.</h1>
-
-
 <h3 align="center"> Data Driven, Data Mindful, Data Precision | Changing perspectives one bit at time.</h3>
 
 

@@ -17,9 +17,6 @@
 <a href="https://www.kaggle.com/richarddiaz" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Kaggle-00CCFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
    </a>
-<a href="https://discord.gg/qJKpT2yt" target="_blank">
-   <img height="26px" src="https://img.shields.io/badge/Discord-7289d9?style=flat&logo=discord&logoColor=white" alt="Discord" style="margin-bottom: 5px;" />
-   </a>
 
  </div> 
 &nbsp;

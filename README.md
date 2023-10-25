@@ -44,7 +44,7 @@ I am currently pursuing a graduate degree in Applied Statistics at California St
 
 - 📫 How to reach me **Richard.Diazdeleon01@student.csulb.edu**
 
-- 📄 Know about my experiences [https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ](https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ)
+- 📄 Know about my experiences [https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ?e=AdUNfJ](https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ?e=AdUNfJ)
 
 - ⚡ Fun fact **I love to learn about stochastics processes and multivariate time series.**
 

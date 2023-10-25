@@ -13,13 +13,13 @@
 </a>
 <a href="diazrichard98@gmail.com" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Gmail-dc143c?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-   </a>
+</a>
 <a href="https://www.kaggle.com/richarddiaz" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Kaggle-00CCFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
-   </a>
-   a href="https://medium.com/@diazrichard98" target="_blank">
+</a>
+<a href="https://medium.com/@diazrichard98" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt="Medium" style="margin-bottom: 5px;" />
-   </a>
+</a>
 
  </div> 
 &nbsp;

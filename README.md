@@ -55,3 +55,8 @@ I am Richard, a seasoned mathematician adept at using statistical programming to
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrichard97&show_icons=true&locale=en&layout=compact" alt="dsrichard97" /></p>
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsrichard97&" alt="dsrichard97" /></p>
+
+
+<h1 align="center"> 🏆 Interesting Quote </h1>
+“It is a capital mistake to theorize before one has data.” - Sherlock Holmes, “A Study in Scarlett” (Arthur Conan Doyle)
+

@@ -24,12 +24,12 @@
  </div> 
 &nbsp;
 
-### 🚀 About Me
-<h3 align="center"> 🚀 About Me:</h3>
+
+<h3 align="center"> 🚀 About Me</h3>
 I am currently pursuing a graduate degree in Applied Statistics at California State University, Long Beach, with a keen interest in machine learning, deep learning, and data analytics. My academic curiosity also extends to stochastic processes and multivariate time series analysis. I earned my undergraduate degree in Applied Mathematics from California State University, Fullerton, where I delved into economic modeling, mathematical modeling, and partial differential equations. Recently, my enthusiasm has steered towards research, particularly in the realms of optimization and neural networks. Residing in Orange County, CA, I am ardently seeking opportunities to further my knowledge and excel in the field of data science.
 
 
-
+<h3 align="center"> 📝 Current Works</h3>
 - 🔭 I’m currently working on **machine learning and deep learning skills.**
 
 - 🌱 I’m currently learning **machine learning by Andrew Ng (Coursera).**
@@ -39,8 +39,6 @@ I am currently pursuing a graduate degree in Applied Statistics at California St
 - 🤝 I’m looking for help with **biostatistics research.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsrichard97/portfolio](https://github.com/dsrichard97/portfolio)
-
-- 📝 I regularly write articles on [https://medium.com/@diazrichard98](https://medium.com/@diazrichard98)
 
 - 💬 Ask me about **SQL, Python, R, and Tableau**
 

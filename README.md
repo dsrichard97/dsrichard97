@@ -36,9 +36,7 @@ I am Richard, a seasoned mathematician adept at using statistical programming to
 
 The United States Environmental Protection Agency (EPA) plays a pivotal role in safeguarding public health and the environment by setting national air quality standards. Annually, the EPA furnishes summary data alongside hourly and daily data, categorizing them into criteria gases, particulates, meteorological, and toxics.
 
-The datasets, encompassing measurements initiated in 1990, undergo biannual updates. In June, the dataset is refreshed with complete data for the preceding year, and come December, the summer data is updated.
-
-Hosted on Google BigQuery, this public dataset is part of BigQuery's 1TB per month free tier processing, granting each user 1TB of complimentary BigQuery processing monthly. This allowance can be utilized to execute queries on this public dataset. A brief tutorial is available through this short video to expedite the familiarization with BigQuery for accessing public datasets. Learn more about BigQuery. Full Project.
+The datasets, encompassing measurements initiated in 1990, undergo biannual updates. In June, the dataset is refreshed with complete data for the preceding year, and come December, the summer data is updated hosted on Google BigQuery. Full Project.
 
 
 <h1 align="center"> 📝 About My Works</h1>

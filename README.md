@@ -28,11 +28,17 @@
 <h1 align="center"> 🚀 About Me</h1>
 
 
-I am Richard, a seasoned mathematician adept at using statistical programming to uncover valuable insights from complex data sets. My hands-on experience from internships has made me proficient with tools like Tableau, SQL, and Excel, which I use to create engaging visualizations and conduct thorough data analysis. In the field of financial analysis, my skills in statistical techniques have been crucial for identifying financial trends, assessing risks, and offering data-driven recommendations to enhance financial performance. Moreover, my work in the healthcare sector has equipped me with a good understanding of healthcare processes, patient outcomes, and operational efficiencies. I always adhere to best data practices to ensure the reliability and accuracy of my analyses. Combining advanced data analytics tools with a solid understanding of both financial and healthcare domains, I am committed to transforming raw data into insights that aid in informed decision-making.
+I am Richard, a seasoned mathematician adept at using statistical programming to uncover valuable insights from complex data sets. My hands-on experience from internships has made me proficient with tools like Tableau, SQL, and Excel, which I use to create engaging visualizations and conduct thorough data analysis. In the field of finance, my skills in statistical techniques have been crucial for identifying financial trends, assessing risks, and offering data-driven recommendations to enhance financial performance or key performance indicators. Moreover, my work in the healthcare sector has equipped me with a good understanding of healthcare processes, patient outcomes, and operational efficiencies. I always adhere to best data practices to ensure the reliability and accuracy of my analyses. Combining advanced data analytics tools with a solid understanding of both financial and healthcare domains, I am committed to transforming raw data into insights that aid in informed decision-making. However, I am always eager to learn new skills and motivated to be the best in my craft. I hope to inspire others and help others when challeneges arise. I have started writting on medium and working more on kaggle to challenge myself daily with data problems. In addition, have continued my studies in statistics to solidfy my understanding of models and machine learning techniques.
 
 
 <h1 align="center"> 💡 Current Projects 👨‍💻 </h1>
+- United States Environmental Protection Agency (EPA) Air Quality Database Overview
 
+The United States Environmental Protection Agency (EPA) plays a pivotal role in safeguarding public health and the environment by setting national air quality standards. Annually, the EPA furnishes summary data alongside hourly and daily data, categorizing them into criteria gases, particulates, meteorological, and toxics.
+
+The datasets, encompassing measurements initiated in 1990, undergo biannual updates. In June, the dataset is refreshed with complete data for the preceding year, and come December, the summer data is updated.
+
+Hosted on Google BigQuery, this public dataset is part of BigQuery's 1TB per month free tier processing, granting each user 1TB of complimentary BigQuery processing monthly. This allowance can be utilized to execute queries on this public dataset. A brief tutorial is available through this short video to expedite the familiarization with BigQuery for accessing public datasets. Learn more about BigQuery. Full Project.
 
 
 <h1 align="center"> 📝 About My Works</h1>

@@ -32,11 +32,15 @@ I am Richard, a seasoned mathematician adept at using statistical programming to
 
 
 <h1 align="center"> 💡 Current Projects 👨‍💻 </h1>
-- United States Environmental Protection Agency (EPA) Air Quality Database Overview
-
-The United States Environmental Protection Agency (EPA) plays a pivotal role in safeguarding public health and the environment by setting national air quality standards. Annually, the EPA furnishes summary data alongside hourly and daily data, categorizing them into criteria gases, particulates, meteorological, and toxics.
+<li>
+      United States Environmental Protection Agency (EPA) Air Quality Database Overview
+      <p>
+       The United States Environmental Protection Agency (EPA) plays a pivotal role in safeguarding public health and the environment by setting national air quality standards. Annually, the EPA furnishes summary data alongside hourly and daily data, categorizing them into criteria gases, particulates, meteorological, and toxics.
 
 The datasets, encompassing measurements initiated in 1990, undergo biannual updates. In June, the dataset is refreshed with complete data for the preceding year, and come December, the summer data is updated hosted on Google BigQuery. Full Project.
+      </p>
+    </li>
+    <li>
 
 
 <h1 align="center"> 📝 About My Works</h1>

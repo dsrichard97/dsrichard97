@@ -12,7 +12,7 @@ I am Richard, a seasoned mathematician adept at using statistical programming to
 
 
 <h1 align="center"> 👨‍💻 Current Projects 
-[![Tableau Follow](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/richard.diazdeleon/vizzes)
+[![Tableau Follow](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/richard.diazdeleon)
 
    
 </h1>

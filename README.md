@@ -1,5 +1,5 @@
 <img src="banner.png" width="840" height="200" allow="autoplay">
-<h1 align="center">Hi 👋, I'm Richard DiazDeLeon.</h1>
+<h1 align="center">Hi 👋, I'm Richard DiazDeLeon.</h1> 
 <h3 align="center"> Data Driven, Data Mindful, Data Precision | Changing perspectives one bit at time.</h3>
 
 
@@ -26,8 +26,7 @@
 &nbsp;
 
 
-<h1 align="center"> 🚀 About Me</h1>
-
+<h1 align="center"> 🚀 About Me</h1>  <img height="26px" src="https://komarev.com/ghpvc/?username=dsrichard97&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" />
 
 I am Richard, a seasoned mathematician adept at using statistical programming to uncover valuable insights from complex data sets. My hands-on experience from internships has made me proficient with tools like Tableau, SQL, and Excel, which I use to create engaging visualizations and conduct thorough data analysis. In the field of finance, my skills in statistical techniques have been crucial for identifying financial trends, assessing risks, and offering data-driven recommendations to enhance financial performance or key performance indicators. Moreover, my work in the healthcare sector has equipped me with a good understanding of healthcare processes, patient outcomes, and operational efficiencies. I always adhere to best data practices to ensure the reliability and accuracy of my analyses. Combining advanced data analytics tools with a solid understanding of both financial and healthcare domains, I am committed to transforming raw data into insights that aid in informed decision-making. However, I am always eager to learn new skills and motivated to be the best in my craft. I hope to inspire others and help others when challeneges arise. I have started writting on medium and working more on kaggle to challenge myself daily with data problems. In addition, have continued my studies in statistics to solidfy my understanding of models and machine learning techniques.
 

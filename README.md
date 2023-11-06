@@ -3,7 +3,7 @@
 <h3 align="center"> Data Driven, Data Mindful, Data Precision | Changing perspectives one bit at time.</h3>
 
 
-<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C5EF7&random=false&width=435&lines=Data+Scientist+%26+A.I.+Enthusiast" alt="Typing SVG" /></a>
+<h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst+%26+Statistican" alt="Typing SVG" /></a>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">

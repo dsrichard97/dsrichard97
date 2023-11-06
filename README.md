@@ -9,9 +9,6 @@
 <h3 align="center"> <a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=0e76a8&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="diazrichard98@gmail.com" target="_blank">
-   <img height="26px" src="https://img.shields.io/badge/Gmail-dc143c?style=flat&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.kaggle.com/richarddiaz" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/Kaggle-00CCFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
 </a>

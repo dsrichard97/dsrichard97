@@ -39,7 +39,9 @@ The provided figures in the dataset represent monthly snapshots rather than cumu
       
 
 
-<h1 align="center"> 📝 About My Works</h1>
+<h1 align="center"> 📝 About My Works<a href="https://medium.com/@diazrichard98" target="_blank">
+   <img height="26px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt="Medium" style="margin-bottom: 5px;" />
+</a> </h1>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsrichard97/portfolio](https://github.com/dsrichard97/portfolio)
 

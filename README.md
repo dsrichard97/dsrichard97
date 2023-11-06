@@ -4,7 +4,6 @@
 
 
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Data+Analyst+%26+Statistican" alt="Typing SVG" /></a>
-
 <div align="center">
 <a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">
    <img height="26px" src="https://img.shields.io/badge/linkedin-%2300acee.png?color=0e76a8&style=flat&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />

@@ -42,8 +42,6 @@ The provided figures in the dataset represent monthly snapshots rather than cumu
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsrichard97/portfolio](https://github.com/dsrichard97/portfolio)
 
-- 📄 Know about my experiences [https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ?e=AdUNfJ](https://csulb-my.sharepoint.com/:w:/g/personal/richard_diazdeleon01_student_csulb_edu/EaX9ZlvVkLVCpG6zdzOTmgMBZMdyd9USOX9HcAtaavstOQ?e=AdUNfJ)
-
 - 📫 How to reach me **Richard.Diazdeleon01@student.csulb.edu**
 
 

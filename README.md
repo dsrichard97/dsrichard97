@@ -21,9 +21,8 @@ I am Richard, a seasoned mathematician adept at using statistical programming to
       United States Environmental Protection Agency (EPA) Air Quality Database Overview
       <p>
        The United States Environmental Protection Agency (EPA) plays a pivotal role in safeguarding public health and the environment by setting national air quality standards. Annually, the EPA furnishes summary data alongside hourly and daily data, categorizing them into criteria gases, particulates, meteorological, and toxics.
-
-The datasets, encompassing measurements initiated in 1990, undergo biannual updates. In June, the dataset is refreshed with complete data for the preceding year, and come December, the summer data is updated hosted on Google BigQuery. Full Project.
       </p>
+   
 <li>
       Evaluating the Effectiveness of a Wellness Program on Dual Enrollee Healthcare Utilization: A Monthly Snapshot Analysis from CMS Data
    
@@ -32,9 +31,8 @@ The datasets, encompassing measurements initiated in 1990, undergo biannual upda
 </p>
 
    <p>
-       The dataset under analysis is derived from the state-reported figures to the Centers for Medicare & Medicaid Services (CMS), a requirement of the Medicare Modernization Act (MMA). These reports, which are updated monthly, detail the counts of individuals dually enrolled in Medicare and Medicaid, known as dual enrollees. This comprehensive data categorizes enrollees by various eligibility criteria, with the granularity to distinguish between state and county levels.
 
-The provided figures in the dataset represent monthly snapshots rather than cumulative annual counts, capturing those enrolled at a specific point in time within each month. Consequently, these snapshot figures tend to be lower than total ever-enrolled counts that accumulate any individual enrolled at any point over the year. This distinction is crucial for accurate data interpretation, especially when analyzing the impact of interventions like the wellness program aimed at reducing hospital readmissions among high-risk patients. [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
+The provided figures in the dataset represent monthly snapshots rather than cumulative annual counts, capturing those enrolled at a specific point in time within each month. Consequently, these snapshot figures tend to be lower than total ever-enrolled counts that accumulate any individual enrolled at any point over the year. This distinction is crucial for accurate data interpretation, especially when analyzing the impact of interventions like the wellness program aimed at reducing hospital readmissions among high-risk patients.  👉 [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
       </p>
       
 

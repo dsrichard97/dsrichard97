@@ -28,7 +28,7 @@ The datasets, encompassing measurements initiated in 1990, undergo biannual upda
       Evaluating the Effectiveness of a Wellness Program on Dual Enrollee Healthcare Utilization: A Monthly Snapshot Analysis from CMS Data
    
 <p align="center">
-  <img src="med1.png" width="600" height="200" allow="autoplay">
+  <img src="med1.png" width="400" height="200" allow="autoplay">
 </p>
 
    <p>

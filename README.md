@@ -34,7 +34,7 @@ The datasets, encompassing measurements initiated in 1990, undergo biannual upda
    <p>
        The dataset under analysis is derived from the state-reported figures to the Centers for Medicare & Medicaid Services (CMS), a requirement of the Medicare Modernization Act (MMA). These reports, which are updated monthly, detail the counts of individuals dually enrolled in Medicare and Medicaid, known as dual enrollees. This comprehensive data categorizes enrollees by various eligibility criteria, with the granularity to distinguish between state and county levels.
 
-The provided figures in the dataset represent monthly snapshots rather than cumulative annual counts, capturing those enrolled at a specific point in time within each month. Consequently, these snapshot figures tend to be lower than total ever-enrolled counts that accumulate any individual enrolled at any point over the year. This distinction is crucial for accurate data interpretation, especially when analyzing the impact of interventions like the wellness program aimed at reducing hospital readmissions among high-risk patients.
+The provided figures in the dataset represent monthly snapshots rather than cumulative annual counts, capturing those enrolled at a specific point in time within each month. Consequently, these snapshot figures tend to be lower than total ever-enrolled counts that accumulate any individual enrolled at any point over the year. This distinction is crucial for accurate data interpretation, especially when analyzing the impact of interventions like the wellness program aimed at reducing hospital readmissions among high-risk patients. [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
       </p>
       
 

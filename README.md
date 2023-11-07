@@ -27,7 +27,9 @@ The datasets, encompassing measurements initiated in 1990, undergo biannual upda
 <li>
       Evaluating the Effectiveness of a Wellness Program on Dual Enrollee Healthcare Utilization: A Monthly Snapshot Analysis from CMS Data
    
-<img src="med1.png" width="840" height="200" allow="autoplay">
+<p align="center">
+  <img src="med1.png" width="840" height="200" allow="autoplay">
+</p>
 
    <p>
        The dataset under analysis is derived from the state-reported figures to the Centers for Medicare & Medicaid Services (CMS), a requirement of the Medicare Modernization Act (MMA). These reports, which are updated monthly, detail the counts of individuals dually enrolled in Medicare and Medicaid, known as dual enrollees. This comprehensive data categorizes enrollees by various eligibility criteria, with the granularity to distinguish between state and county levels.

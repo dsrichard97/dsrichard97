@@ -44,8 +44,6 @@ The provided figures in the dataset represent monthly snapshots rather than cumu
 
 - 📫 How to reach me **Richard.Diazdeleon01@student.csulb.edu**
 
-- 📖 Coursework Completed
-
 <h1 align="center"> 🤖 Teck Stack </h1>
 <p>
     <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" title="Python">

@@ -40,7 +40,7 @@ For a deeper dive into my professional journey and projects, feel free to connec
 
    <p>
 
-The provided figures in the dataset represent monthly snapshots rather than cumulative annual counts, capturing those enrolled at a specific point in time within each month. Consequently, these snapshot figures tend to be lower than total ever-enrolled counts that accumulate any individual enrolled at any point over the year. This distinction is crucial for accurate data interpretation, especially when analyzing the impact of interventions like the wellness program aimed at reducing hospital readmissions among high-risk patients.  👉 [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
+This project delves into a meticulous analysis of CMS data, focusing on the effectiveness of a wellness program targeting dual enrollees. The data set is unique as it offers monthly snapshots instead of the conventional cumulative annual counts. This approach provides a more dynamic and nuanced view, capturing enrollees' data at specific points each month. It's important to note that these snapshot figures generally present lower counts compared to the total ever-enrolled figures over a year, as they only account for individuals enrolled at the time of each snapshot.  👉 [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
       </p>
       
 

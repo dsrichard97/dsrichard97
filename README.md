@@ -16,7 +16,7 @@ At the heart of my approach is a blend of advanced data analytics and a deep div
 
 But the learning never stops. I'm constantly seeking new horizons in data science, striving for excellence and hoping to inspire and support others along the way. I've taken my passion to platforms like Medium and Kaggle, pushing my limits with daily data challenges, and I continue to deepen my expertise in statistics, exploring the realms of predictive models and machine learning techniques.
 
-For a deeper dive into my professional journey and projects, feel free to connect with me on  👉 LinkedIn .
+For a deeper dive into my professional journey and projects, feel free to connect with me on   👉 [Linkedin](https://www.linkedin.com/in/richard-d-740b2a24b/)  .
 
 
 <h1 align="center"> 👨‍💻 Current Projects 

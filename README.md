@@ -52,7 +52,7 @@ This project delves into a meticulous analysis of CMS data, focusing on the effe
 
    <p>
 
-In this project, I demonstrated my proficiency in Python by implementing change point detection in time series data, focusing on Microsoft Corporation's stock prices. Utilizing the 'ruptures' library, I successfully identified significant shifts in the stock's closing prices, a critical task for investment analysis and risk management. My approach included a range of algorithms like Binary Segmentation, Kernel Change with RBF, Bottom Up, and PELT, ensuring a comprehensive and robust analysis.   👉 [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
+In this project, I demonstrated my proficiency in Python by implementing change point detection in time series data, focusing on Microsoft Corporation's stock prices. Utilizing the 'ruptures' library, I successfully identified significant shifts in the stock's closing prices, a critical task for investment analysis and risk management. My approach included a range of algorithms like Binary Segmentation, Kernel Change with RBF, Bottom Up, and PELT, ensuring a comprehensive and robust analysis.   👉 [Full Project](https://github.com/dsrichard97/msft_CPD) 
       </p>
       
       

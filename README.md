@@ -42,6 +42,19 @@ For a deeper dive into my professional journey and projects, feel free to connec
 
 This project delves into a meticulous analysis of CMS data, focusing on the effectiveness of a wellness program targeting dual enrollees. The data set is unique as it offers monthly snapshots instead of the conventional cumulative annual counts. This approach provides a more dynamic and nuanced view, capturing enrollees' data at specific points each month. It's important to note that these snapshot figures generally present lower counts compared to the total ever-enrolled figures over a year, as they only account for individuals enrolled at the time of each snapshot.  👉 [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
       </p>
+
+   <li>
+      Microsoft Stock Price - Change Point Detection
+   
+<p align="center">
+  <img src="med1.png" width="600" height="200" allow="autoplay">
+</p>
+
+   <p>
+
+This project delves into a meticulous analysis of CMS data, focusing on the effectiveness of a wellness program targeting dual enrollees. The data set is unique as it offers monthly snapshots instead of the conventional cumulative annual counts. This approach provides a more dynamic and nuanced view, capturing enrollees' data at specific points each month. It's important to note that these snapshot figures generally present lower counts compared to the total ever-enrolled figures over a year, as they only account for individuals enrolled at the time of each snapshot.  👉 [Full Project](https://github.com/dsrichard97/Medicare_Dual_Enroll) 
+      </p>
+      
       
 
 

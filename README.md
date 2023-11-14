@@ -47,7 +47,7 @@ This project delves into a meticulous analysis of CMS data, focusing on the effe
       Microsoft Stock Price - Change Point Detection
    
 <p align="center">
-  <img src="med1.png" width="600" height="200" allow="autoplay">
+  <img src="MSFT.png" width="600" height="200" allow="autoplay">
 </p>
 
    <p>

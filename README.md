@@ -25,11 +25,6 @@ For a deeper dive into my professional journey and projects, feel free to connec
 
    
 </h1>
-<li>
-      United States Environmental Protection Agency (EPA) Air Quality Database Overview
-      <p>
-       The United States Environmental Protection Agency (EPA) plays a pivotal role in safeguarding public health and the environment by setting national air quality standards. Annually, the EPA furnishes summary data alongside hourly and daily data, categorizing them into criteria gases, particulates, meteorological, and toxics.
-      </p>
    
 <li>
       Evaluating the Effectiveness of a Wellness Program on Dual Enrollee Healthcare Utilization: A Monthly Snapshot Analysis from CMS Data

@@ -1,6 +1,6 @@
 <img src="banner.png" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Richard DiazDeLeon </h1> 
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ED21F7&random=false&width=435&lines=Data+Analyst+%26+Statistican" alt="Typing SVG" /></h1>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src=href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I+am+an+Applied+Statistician!" alt="Typing SVG" alt="Typing SVG" /></h1>
 
 
 <h1 align="center"> 🚀 About Me  <img height="26px" src="https://komarev.com/ghpvc/?username=dsrichard97&label=Profile%20views&color=7289d9&style=flat" alt="profile views" style="margin-bottom: 5px;" /><a href="https://www.linkedin.com/in/richard-d-740b2a24b/" target="_blank">

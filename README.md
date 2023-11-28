@@ -8,15 +8,9 @@
    
 </h1> 
 
-Hello! I'm Richard, a passionate mathematician and data enthusiast with a knack for extracting meaningful insights from complex datasets. My journey in data science is marked by hands-on experience gained through various internships, where I honed my proficiency in statistical programming and data visualization tools such as Tableau, SQL, and Excel. My expertise shines in the finance sector, where I've leveraged statistical methods to unravel financial trends, evaluate risks, and provide data-backed recommendations to optimize financial performance and key indicators.
+Hello! My name is Richard, a fervent mathematician and data enthusiast skilled in distilling meaningful insights from intricate datasets. My data science journey has been shaped by practical experience, gained through both internships and academic pursuits, where I sharpened my skills in statistical programming and data visualization tools, including Tableau, SQL, and Excel. My experience in the healthcare sector has deepened my understanding of patient care, healthcare operations, and research. I am committed to the highest standards of data practices, ensuring both integrity and precision in my analyses. The challenge of transforming raw data into actionable insights that facilitate informed decision-making drives me. I am continually exploring new frontiers in data science, aiming for excellence and aspiring to both inspire and assist others in their journeys. I've extended my enthusiasm to platforms like Medium and Kaggle, constantly challenging myself and sharing my perspectives. I hold a Bachelor's degree in Applied Mathematics from California State University, Fullerton and am currently enhancing my knowledge in statistical methods, particularly in algorithms and models pertinent to data science. Looking ahead, I aspire to become an influential voice, encouraging others to engage with data science and AI.
 
-My adventures in data don't stop there. Working within the healthcare sector has enriched my understanding of patient care dynamics, healthcare operations, and outcome optimization. I pride myself on adhering to the highest standards of data practices, ensuring the integrity and accuracy of my analyses.
-
-At the heart of my approach is a blend of advanced data analytics and a deep dive into the nuances of finance and healthcare. I'm driven by the challenge of turning raw data into actionable insights that pave the way for informed decision-making.
-
-But the learning never stops. I'm constantly seeking new horizons in data science, striving for excellence and hoping to inspire and support others along the way. I've taken my passion to platforms like Medium and Kaggle, pushing my limits with daily data challenges, and I continue to deepen my expertise in statistics, exploring the realms of predictive models and machine learning techniques.
-
-For a deeper dive into my professional journey and projects, feel free to connect with me on   👉 [Linkedin](https://www.linkedin.com/in/richard-d-740b2a24b/)  .
+For a deeper dive into my professional journey, feel free to connect with me on   👉 [Linkedin](https://www.linkedin.com/in/richard-d-740b2a24b/)  .
 
 
 <h1 align="center"> 👨‍💻 Current Projects 

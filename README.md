@@ -1,4 +1,3 @@
-<html>
 <head>
     <title>Richard's Portfolio</title>
     <style>
@@ -58,8 +57,6 @@
     <div class="footer">
         <a href="mailto:richard.diazdeleon01@student.csulb.edu" class="contact-button">📫 Email Me</a>
     </div>
-</body>
-</html>
 
 
 

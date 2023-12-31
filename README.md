@@ -19,7 +19,7 @@
 
 
 🌱 <b> I’m currently learning </b> ... 
-* [LLaMa](https://github.com/facebookresearch/llama) - LLaMa is a language model introduced by Meta (formerly Facebook). Specificically intrested in the different use cases or applications.
+* [LLaMa](https://github.com/facebookresearch/llama) - LLaMa is a language model introduced by Meta (formerly Facebook). Specificically, intrested in the different use cases.
 
 
 

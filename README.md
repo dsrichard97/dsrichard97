@@ -14,9 +14,11 @@
   * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian">First Serbian LLM eval</a><br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 </p>
+
 <br>
 🌱 I’m currently learning ...
 * [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
+
 🤔 I’m looking for help with ...
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 * [YouTube AI Buddy](https://www.ortusbuddy.ai/)

@@ -10,11 +10,13 @@
 </p>
 
 <p align="left">
-Latest Projects:<br/>
+👨‍💻 Latest Projects... 
+<br/>
   * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">YugoGPT</a> - training a first ever 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs<br/>
   * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian">First Serbian LLM eval</a><br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Open-NLLB</a> - Replicating Meta's "no language left behind" machine translation (MT) project
 </p>
+<br>
 
 🌱 I’m currently learning ...
 * [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework

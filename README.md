@@ -19,7 +19,7 @@
 
 
 🌱 <b> I’m currently learning </b> ... 
-* [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
+* [LLaMa](https://github.com/facebookresearch/llama) - LLaMa is a language model introduced by Meta (formerly Facebook)
 
 
 

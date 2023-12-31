@@ -15,14 +15,19 @@
 </p>
 
 
-🌱 I’m currently learning ...
-* [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
 
+<p align="left">
+🌱 I’m currently learning ... 
+* [airoboros](https://github.com/jondurbin/airoboros) - synthetic instruction following data generation framework
+</p>
+
+
+<p align="left">
 🤔 I’m looking for help with ...
 * [Jarvis for images](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 * [YouTube AI Buddy](https://www.ortusbuddy.ai/)
 * [Huberman Transcripts](https://www.hubermantranscripts.com/)
-
+</p>
 
 
 📫 How to reach me: richard.diazdeleon01@student.csulb.edu

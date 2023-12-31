@@ -31,8 +31,9 @@
 
 
 
-📫 How to reach me: richard.diazdeleon01@student.csulb.edu
-
+<p align="center">
+   📫 How to reach me: richard.diazdeleon01@student.csulb.edu
+</p>
 
 
 

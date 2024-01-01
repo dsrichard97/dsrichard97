@@ -30,7 +30,7 @@
 
 
 <p align="center">
-   📫 How to reach me: richard.diazdeleon01@student.csulb.edu
+   📫 <b> How to reach me </b>: richard.diazdeleon01@student.csulb.edu
 </p>
 
 

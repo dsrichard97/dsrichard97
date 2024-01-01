@@ -35,7 +35,7 @@
 
 
 <div style="text-align: center;">
-    <img src="https://github.com/dsrichard97/dsrichard97/blob/main/img1.jpeg" alt="Image Description">
+    <img src="https://github.com/dsrichard97/dsrichard97/blob/main/img1.png" alt="Image Description">
 </div>
 
 

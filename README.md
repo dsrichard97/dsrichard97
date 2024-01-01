@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@diazrichard98)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:richard.diazdeleon01@student.csulb.edu) 
 
-<p align="center">
+<p align="left">
 :octocat: <b> Bio </b>... 
 </p>
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
 👨‍💻 <b> Latest Projects </b>... 
 </p>
   * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">Project1</a> - training a first ever 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs
@@ -21,14 +21,14 @@
 
 
 
-<p align="center">
+<p align="left">
 🌱 <b> I’m currently learning </b> ... 
 </p>
 * [LLaMa](https://github.com/facebookresearch/llama) - LLaMa is a language model introduced by Meta (formerly Facebook). Specificically, intrested in the different use cases.
 
 
 
-<p align="center">
+<p align="left">
 🤔 <b> I’m looking for help with </b> ...
 </p>
 * [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)

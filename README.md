@@ -6,6 +6,7 @@
 <p align="left">
 :octocat: <b> Bio </b>... 
 </p>
+
 <p align="center">
    As a graduate student specializing in Applied Statistics at California State University Long Beach, I am actively engaged in writing my thesis, which focuses on neural networks. My academic journey is fueled by a strong desire to learn from others and to achieve professional growth. For more insights into my work and experiences, I invite you to visit my webpage.
 </p>
@@ -14,16 +15,16 @@
 <p align="left">
 👨‍💻 <b> Latest Projects </b>... 
 </p>
+
   * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/">Project1</a> - training a first ever 7B LLM for Croatian, Bosnian, Serbian, Montenegrin langs
   * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian"> Project2</a><br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Project3</a><br/>
 
 
-
-
 <p align="left">
 🌱 <b> I’m currently learning </b> ... 
 </p>
+
 * [LLaMa](https://github.com/facebookresearch/llama) - LLaMa is a language model introduced by Meta (formerly Facebook). Specificically, intrested in the different use cases.
 
 
@@ -31,6 +32,7 @@
 <p align="left">
 🤔 <b> I’m looking for help with </b> ...
 </p>
+
 * [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 
 

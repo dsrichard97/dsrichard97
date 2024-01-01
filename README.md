@@ -34,6 +34,9 @@
 </p>
 
 
+<div style="text-align: center;">
+    <img src="pic1.png" alt="Image Description">
+</div>
 
 
 

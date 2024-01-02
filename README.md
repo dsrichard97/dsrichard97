@@ -35,6 +35,12 @@
 
 * [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 
+<p align="left">
+ <b> Other Projects </b> ...
+</p>
+
+* [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)
+
 
 
 <p align="center">

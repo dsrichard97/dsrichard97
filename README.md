@@ -39,7 +39,7 @@
  <b> Other Projects </b> ...
 </p>
 
-* [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)
+* [Projects](https://github.com/dsrichard97/portfolio)
 
 
 

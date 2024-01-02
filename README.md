@@ -36,7 +36,7 @@
 * [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)
 
 <p align="left">
- <b> Other Projects </b> ...
+💫 <b> Other Projects </b> ...
 </p>
 
 * [Projects](https://github.com/dsrichard97/portfolio)

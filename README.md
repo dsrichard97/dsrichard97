@@ -17,7 +17,7 @@
 </p>
 
   * <a href="https://www.linkedin.com/feed/update/urn:li:activity:7143209223722627072/"> Electricity Optimizing Prices: SS-MT and ARIMA </a> - A Quick Comparison between a State Space Multitaper technique (MIT Research based) vs a ARIMA model. 
-  * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian"> Iowa Liquor Sales - </a><br/>
+  * <a href="https://github.com/gordicaleksa/lm-evaluation-harness-serbian"> Iowa Liquor Sales  </a><br/>
   * <a href="https://github.com/gordicaleksa/Open-NLLB">Project3</a><br/>
 
 

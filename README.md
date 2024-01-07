@@ -29,7 +29,7 @@
 
 
 <p align="left">
-🤔 <b> I’m looking for help with </b> ...
+🤔 <b> I’m looking for help with data engineering projects </b> ...
 </p>
 
 * [advanced projec 1](https://twitter.com/gordic_aleksa/status/1723004221664972819)

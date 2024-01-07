@@ -17,7 +17,7 @@
 </p>
 
   * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Electricity Optimizing Prices: SS-MT and ARIMA </a> - A Quick Comparison between a State Space Multitaper technique (MIT Research based) vs a ARIMA model. 
-  * <a href="https://github.com/dsrichard97/chicago_crime">Chicago Crime</a> - A quick analysis using temporal analysis. <br/>
+  * <a href="https://github.com/dsrichard97/chicago_crime">Chicago Crime</a> - A quick analysis using temporal analysis to showcase crime hotspots. <br/>
 
 
 <p align="left">

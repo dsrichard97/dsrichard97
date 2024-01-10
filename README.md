@@ -38,7 +38,7 @@
 💫 <b> Other Projects </b> ...
 </p>
 
-* [Projects](https://github.com/dsrichard97/portfolio)
+* [Projects](https://dsrichard97.github.io/portfolio/)
 
 
 

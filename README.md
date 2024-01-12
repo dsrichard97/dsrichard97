@@ -16,7 +16,7 @@
 👨‍💻 <b> Latest Projects </b>... 
 </p>
 
-  * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Electricity Optimizing Prices: SS-MT and ARIMA </a> - A Quick Comparison between a State Space Multitaper technique (MIT Research based) vs a ARIMA model. 
+  * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Membership Management System Prototype </a> - features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
   * <a href="https://github.com/dsrichard97/chicago_crime">Chicago Crime</a> - A quick analysis using temporal analysis to showcase crime hotspots. <br/>
 
 
@@ -30,6 +30,7 @@
 
 <p align="left">
 🤔 <b> I’m looking for help with data engineering projects </b> ...
+    * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Membership Management System Prototype Live Error </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
 </p>
 
 

@@ -16,7 +16,7 @@
 👨‍💻 <b> Latest Projects </b>... 
 </p>
 
-  * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype: User Interface </a> - features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
+  * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype: User Interface </a> - Features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
   * <a href="https://github.com/dsrichard97/chicago_crime">Data-Driven Strategies for Reducing Crime in Chicago</a> - A quick analysis using temporal analysis to showcase crime hotspots. <br/>
 
 

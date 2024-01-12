@@ -30,8 +30,9 @@
 
 <p align="left">
 🤔 <b> I’m looking for help with data engineering projects </b> ...
-    * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Membership Management System Prototype Live Error </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
 </p>
+
+ * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Membership Management System Prototype Live Error </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
 
 
 
@@ -39,7 +40,7 @@
 💫 <b> Other Projects </b> ...
 </p>
 
-* [Projects](https://dsrichard97.github.io/portfolio/)
+* [Projects](https://dsrichard97.github.io/portfolio/) - A combination of different data projects.
 
 
 

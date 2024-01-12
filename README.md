@@ -16,8 +16,8 @@
 👨‍💻 <b> Latest Projects </b>... 
 </p>
 
-  * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype </a> - features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
-  * <a href="https://github.com/dsrichard97/chicago_crime">Chicago Crime</a> - A quick analysis using temporal analysis to showcase crime hotspots. <br/>
+  * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype: User Interface </a> - features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
+  * <a href="https://github.com/dsrichard97/chicago_crime">Data-Driven Strategies for Reducing Crime in Chicago</a> - A quick analysis using temporal analysis to showcase crime hotspots. <br/>
 
 
 <p align="left">
@@ -32,7 +32,7 @@
 🤔 <b> I’m looking for help with data engineering projects </b> ...
 </p>
 
- * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype with Live Error </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
+ * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype: Real-Time Error Detection and Resolution </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
 
 
 
@@ -40,7 +40,7 @@
 💫 <b> Other Projects </b> ...
 </p>
 
-* [Projects](https://dsrichard97.github.io/portfolio/) - A combination of different data projects.
+* [A Collection of Diverse Projects](https://dsrichard97.github.io/portfolio/) - A combination of different data projects.
 
 
 

@@ -16,7 +16,7 @@
 👨‍💻 <b> Latest Projects </b>... 
 </p>
 
-  * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Membership Management System Prototype </a> - features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
+  * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype </a> - features an integrated ticketing and survey mechanism, streamlining user interactions for database modifications in SQL. 
   * <a href="https://github.com/dsrichard97/chicago_crime">Chicago Crime</a> - A quick analysis using temporal analysis to showcase crime hotspots. <br/>
 
 
@@ -32,7 +32,7 @@
 🤔 <b> I’m looking for help with data engineering projects </b> ...
 </p>
 
- * <a href="https://github.com/dsrichard97/electric_optimization/tree/main"> Membership Management System Prototype Live Error </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
+ * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype Live Error </a> - Enahnce Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
 
 
 

@@ -32,8 +32,6 @@
 🤔 <b> I’m looking for help with data engineering projects </b> ...
 </p>
 
- * <a href="https://github.com/dsrichard97/databasesys"> Membership Management System Prototype: Real-Time Error Detection and Resolution </a> - Enhance Ticketing system with ChatGPT engine to prompt users where errors are made in code or modifications within the database.
-
 
 
 <p align="left">

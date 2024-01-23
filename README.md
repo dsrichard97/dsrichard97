@@ -1,9 +1,3 @@
-<img src="https://github.com/dsrichard97/dsrichard97/blob/main/img1.png" 
-     width="800" 
-     height="400" />
-
-<br>
-
 <h1 align="left"> 💎 Welcome to my Github page! 💎</h1>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +14,11 @@
 📨 For collaboration or other inquiries, reach me via [email](mailto:diazrichard98@gmail.com) or [LinkedIn](www.linkedin.com/in/richard-d-740b2a24b)
 
 ---
+
+<img src="https://github.com/dsrichard97/dsrichard97/blob/main/img1.png" 
+     width="800" 
+     height="400" />
+
 
 
 

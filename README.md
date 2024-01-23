@@ -1,5 +1,5 @@
 <img src="https://github.com/dsrichard97/dsrichard97/blob/main/img1.png" 
-     width="400" 
+     width="800" 
      height="500" />
 
 <br>

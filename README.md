@@ -11,9 +11,9 @@
 
 🌱 I'm currently learning SQL, Python, and Machine Learning
 
-- 🌱 I’m currently learning deep learning and LLama models
-- 👯 I’m looking to collaborate on data engineering projects
-- 🤔 I’m looking for help with chatmodel enginer feature prompting
+👯 I’m looking to collaborate on data engineering projects
+
+🤔 I’m looking for help with chatmodel enginer feature prompting
 
 📨 For collaboration or other inquiries, reach me via [email](mailto:diazrichard98@gmail.com) or [LinkedIn](www.linkedin.com/in/richard-d-740b2a24b)
 

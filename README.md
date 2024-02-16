@@ -15,7 +15,7 @@
 
 🤔 I’m looking for help with chatmodel enginer feature prompting
 
-<b> For Previous Projects and work -------></b>
+<b> For Previous Projects and work -------> [click here](https://dsrichard97.github.io/) </b>
 
 📨 For collaboration or other inquiries, reach me via [email](mailto:diazrichard98@gmail.com) or [LinkedIn](www.linkedin.com/in/richard-d-740b2a24b)
 

@@ -1,28 +1,21 @@
-<h1 align="left"> Hey, my name is Richard Diazdeleon 👋 </h1>
+<h1 align="center">Hi 👋, I'm Richard Diazdeleon.</h1>
+<h3 align="center">Data Enthusiast: From Number Crunching to Innovative Solutions, Prioritizing Strong Data Integrity.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<div>
+  <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=orange" title="Page View Count"></h2>
+  <p>
+    My name is Richard and I am a statistican who utilize logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. My expertise encompasses the creation of compelling data visualizations and the application of statistical methods and machine learning algorithms to address real-world problems. I am proficient in utilizing a suite of Python libraries, including Pandas, Matplotlib, and Plotly, to develop insightful visual representations of data. Additionally, I leverage Tableau for the creation of dashboard reports that highlight essential KPIs and ensure data cleanliness.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/richard-d-740b2a24b/) 
-[<img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee" />](https://twitter.com/diazrichard98) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@diazrichard98)
-[<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:diazrichard98@gmail.com) 
+My statistical methodology is comprehensive, incorporating techniques such as correlation analysis, t-tests, chi-square tests, ANOVA/MANOVA, among others, to uncover underlying patterns and relationships within data. I am adept at designing and implementing robust experimental setups, including A/B testing, to validate results and inform strategic decisions.
 
-I am currently looking for new opportunities. I have a Bachelor’s degree in Applied Math.
+My foundation in statistics is strengthened by a deep understanding of Linear Algebra, Statistical Inference, Optimization, and Probability, which underpins my ability to develop and evaluate machine learning models with appropriate assumptions. I am committed to continuous learning and staying at the forefront of the field, regularly engaging with the latest research in machine learning, staying updated with current data techniques through platforms like Medium, and following thought leaders in Artificial Intelligence.
 
-I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey. Check out the projects below.
-
-
-
-📨 For collaboration or other inquiries, reach me via [email](mailto:diazrichard98@gmail.com) or [LinkedIn](www.linkedin.com/in/richard-d-740b2a24b)
-
----
-
-<img src="https://github.com/dsrichard97/dsrichard97/blob/main/img1.png" 
-     width="800" 
-     height="400" />
-
-
-
+I am passionate about leveraging my statistical expertise and technical skills to drive data-driven decisions and create value through innovative data solutions.
+  </p>
+  <p>
+    In the future I see myself sharing my knowledge and helping others learn. I see myself creating full tutorials on projects that relate to Data Science and Data Engineering on my GitHub. I plan to start writing blogs on Medium and uploading more work onto Kaggle. I hope to inspire new comers into the world of Data by taking a simplistic approach in my methods that will motivate them to grow. 
+  </p>
+</div>
 
 
 

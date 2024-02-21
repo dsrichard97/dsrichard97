@@ -9,8 +9,6 @@
 My statistical methodology is comprehensive, incorporating techniques such as correlation analysis, t-tests, chi-square tests, ANOVA/MANOVA, among others, to uncover underlying patterns and relationships within data. I am adept at designing and implementing robust experimental setups, including A/B testing, to validate results and inform strategic decisions.
 
 My foundation in statistics is strengthened by a deep understanding of Linear Algebra, Statistical Inference, Optimization, and Probability, which underpins my ability to develop and evaluate machine learning models with appropriate assumptions. I am committed to continuous learning and staying at the forefront of the field, regularly engaging with the latest research in machine learning, staying updated with current data techniques through platforms like Medium, and following thought leaders in Artificial Intelligence.
-
-I am passionate about leveraging my statistical expertise and technical skills to drive data-driven decisions and create value through innovative data solutions.
   </p>
   <p>
     In the future I see myself sharing my knowledge and helping others learn. I see myself creating full tutorials on projects that relate to Data Science and Data Engineering on my GitHub. I plan to start writing blogs on Medium and uploading more work onto Kaggle. I hope to inspire new comers into the world of Data by taking a simplistic approach in my methods that will motivate them to grow. 

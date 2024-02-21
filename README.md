@@ -7,13 +7,7 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@diazrichard98)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:diazrichard98@gmail.com) 
 
-✨ I'm an aspiring Data Scientist passionate about technology, data, product and creative thinking 💭 
 
-🌱 I'm currently learning SQL, Python, and Machine Learning
-
-👯 I’m looking to collaborate on data engineering projects
-
-🤔 I’m looking for help with chatmodel enginer feature prompting
 
 <b> For Previous Projects and work -------> [click here](https://dsrichard97.github.io/web/) </b>
 

@@ -7,6 +7,11 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@diazrichard98)
 [<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />](mailto:diazrichard98@gmail.com) 
 
+I am currently looking for new opportunities. I have a Bachelor’s degree in Applied Math.
+
+I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey. Check out the projects below.
+
+
 
 
 <b> For Previous Projects and work -------> [click here](https://dsrichard97.github.io/web/) </b>

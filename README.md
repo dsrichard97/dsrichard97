@@ -2,7 +2,7 @@
 <h3 align="center">Data Enthusiast: From Number Crunching to Innovative Solutions, Prioritizing Strong Data Integrity.</h3>
 
 <div>
-  <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=orange" title="Page View Count"></h2>
+  <h2 align="center">🌠 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=orange" title="Page View Count"></h2>
   <p>
     My name is Richard and I am a statistican who utilize logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. My expertise encompasses the creation of compelling data visualizations and the application of statistical methods and machine learning algorithms to address real-world problems. I am proficient in utilizing a suite of Python libraries, including Pandas, Matplotlib, and Plotly, to develop insightful visual representations of data. Additionally, I leverage Tableau for the creation of dashboard reports that highlight essential KPIs and ensure data cleanliness.
 

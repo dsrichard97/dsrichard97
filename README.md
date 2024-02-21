@@ -1,4 +1,4 @@
-<h1 align="left"> 💎 Welcome to my Github page! 💎</h1>
+<h1 align="left"> Hey, my name is Richard Diazdeleon 👋 </h1>
 
 <h3 align="left">Connect with me:</h3>
 
@@ -12,9 +12,6 @@ I am currently looking for new opportunities. I have a Bachelor’s degree in Ap
 I really enjoy connecting with like-minded data people, sharing my skills, experience and personal journey. Check out the projects below.
 
 
-
-
-<b> For Previous Projects and work -------> [click here](https://dsrichard97.github.io/web/) </b>
 
 📨 For collaboration or other inquiries, reach me via [email](mailto:diazrichard98@gmail.com) or [LinkedIn](www.linkedin.com/in/richard-d-740b2a24b)
 

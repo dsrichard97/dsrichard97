@@ -17,6 +17,13 @@ I am passionate about leveraging my statistical expertise and technical skills t
   </p>
 </div>
 
+<div>
+  <h2 align="center">🌐 Socials </h2>
+  <p align="center">
+    <a href="www.linkedin.com/in/richarddiazdeleon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
+    <a href="https://github.com/dsrichard97" target="_blank"><img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white" title="GitHub"></a>
+  </p>
+</div>
 
 
 

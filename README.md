@@ -24,9 +24,8 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 </div>
 
 <div>
-  <h2 align="center">👨‍💻 Latest Projects 💡</h2>
+  <h2 align="center">👨‍💻 Latest Projects <span title="check web portfolio below"> Latest Projects </span> 💡</h2>
   
-  <span title="this is the tooltip.">Move your mouse over me!</span>
 
 </body>
 

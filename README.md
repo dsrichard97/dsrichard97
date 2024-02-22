@@ -45,6 +45,40 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
         to <time>7:00 pm</time> 
     </div> 
 </body> 
+<body> 
+    <!-- table starts here -->
+    <table> 
+        <!-- Table Caption -->
+        <caption>Geeks For Geeks Learning</caption> 
+        <!-- Table row starts -->
+        <tr> 
+            <!--Headers -->
+            <th>Programming Languages</th> 
+            <th>Development</th> 
+        </tr> 
+        <!-- Table row ends -->
+        <tr> 
+            <!-- Table data -->
+            <td>C programming </td> 
+            <td>Full stack development</td> 
+        </tr> 
+        <tr> 
+            <td>Java programming</td> 
+            <td>Backend development</td> 
+        </tr> 
+        <tr> 
+            <td>Angular </td> 
+            <td>Frontend Development</td> 
+        </tr> 
+        <!-- Table Footer starts here -->
+        <tfoot> 
+            <tr> 
+                <td>Footer content</td> 
+            </tr> 
+        </tfoot> 
+        <!-- Table footer ends here -->
+    </table> 
+</body> 
 
 </div>
 

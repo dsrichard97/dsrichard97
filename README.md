@@ -25,6 +25,11 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 
 <div>
   <h2 align="center">👨‍💻 Latest Projects 💡</h2>
+  <a href="YOUR_LINK_HERE" style="text-decoration: none;">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Image description" width="100%" /><br>
+  <p style="text-align: center;">Your description here</p>
+</a>
+
 </div>
 
 

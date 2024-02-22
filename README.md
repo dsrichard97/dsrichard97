@@ -77,8 +77,9 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
             </tr> 
         </tfoot> 
         <!-- Table footer ends here -->
-    </table> 
+    </table>
   
+  <marquee>I wanna scroll with it</marquee>
   <span title="this is the tooltip.">Move your mouse over me!</span>
 
 </body>

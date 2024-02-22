@@ -25,10 +25,26 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 
 <div>
   <h2 align="center">👨‍💻 Latest Projects 💡</h2>
-  <a href="YOUR_LINK_HERE" style="text-decoration: none;">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Image description" width="100%" /><br>
-  <p style="text-align: center;">Your description here</p>
-</a>
+  <body> 
+    <!-- emphasis -->
+    <div><em>Emphasized text</em></div> 
+    <!-- strong -->
+    <div><strong>Important text!</strong></div> 
+    <!-- subscript -->
+    <div>GFG<sub>subscript text</sub></div> 
+    <!-- superscript -->
+    <div>GFG<sup>Superscript text</sup></div> 
+    <!-- abbreviation -->
+    <div><abbr>Abbreviation</abbr></div> 
+    <!-- mark -->
+    <div><mark>Highlighted text</mark></div> 
+    <!-- cite -->
+    <div><cite>Title of creative work</cite></div> 
+    <!-- time -->
+    <div>Time<time>9:00 am</time> 
+        to <time>7:00 pm</time> 
+    </div> 
+</body> 
 
 </div>
 

@@ -29,18 +29,6 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 
 </body>
 
-</div>
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="YOUR_IMAGE_URL_HERE" alt="Los Angeles Crime Analysis" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 2; padding-left: 20px;">
-    <h2>Chicago Crime Analysis</h2>
-    <p>Collect Data from Google BigQuery and pulled data using SQL. Performed Data Cleansing and Explored Key Metrics using SQL. The motivation for this project was to investigate how crime on the streets has been on the rise in the last five years. My visualizations were created using R by utilizing libraries like ggplot2,cluster, and connecting to a live database. My business intelligence tool created using Tableau made it easy for the user to visualize specific crime spots and choose filter likings. In the end, my analysis demonstrated that a crimes have been stable,however, fradualent and cyber crimes have been on the rise.</p>
-    <p><strong>Full Project:</strong> https://chicago-crime-62833.stackbit.app/</p>
-  </div>
-</div>
-
 
 
 

@@ -78,12 +78,22 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
         </tfoot> 
         <!-- Table footer ends here -->
     </table>
-  <span style="background-color: #004aad> highlighted text.</span>
   <span title="this is the tooltip.">Move your mouse over me!</span>
 
 </body>
 
 </div>
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 1;">
+    <img src="YOUR_IMAGE_URL_HERE" alt="Los Angeles Crime Analysis" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 2; padding-left: 20px;">
+    <h2>Los Angeles Crime Analysis</h2>
+    <p>Collect Data from LACITY website and uploaded to an AWS Database using Planet Scale. Performed Data Cleansing and Explored Key Metrics using MySQL. The motivation for this project was to investigate how Covid and certain policy in California regarding crime has affected the city. My visualizations were created using Python by utilizing libraries like Matplotlib, Seaborn, and connecting to the database using SQLAlchemy. My business intelligence tool created using Power BI made it easy for the user to visualize specific crime spots and choose filter likings. In the end, my analysis demonstrated that a change in a particular policy, Prop. 47 in California, should be considered and inspires action by the people.</p>
+    <p><strong>Full Project:</strong> [Insert link or call to action here]</p>
+  </div>
+</div>
+
 
 
 <div>

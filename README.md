@@ -25,59 +25,7 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 
 <div>
   <h2 align="center">👨‍💻 Latest Projects 💡</h2>
-  <body> 
-    <!-- emphasis -->
-    <div><em>Emphasized text</em></div> 
-    <!-- strong -->
-    <div><strong>Important text!</strong></div> 
-    <!-- subscript -->
-    <div>GFG<sub>subscript text</sub></div> 
-    <!-- superscript -->
-    <div>GFG<sup>Superscript text</sup></div> 
-    <!-- abbreviation -->
-    <div><abbr>Abbreviation</abbr></div> 
-    <!-- mark -->
-    <div><mark>Highlighted text</mark></div> 
-    <!-- cite -->
-    <div><cite>Title of creative work</cite></div> 
-    <!-- time -->
-    <div>Time<time>9:00 am</time> 
-        to <time>7:00 pm</time> 
-    </div> 
-</body> 
-<body> 
-    <!-- table starts here -->
-    <table> 
-        <!-- Table Caption -->
-        <caption>Geeks For Geeks Learning</caption> 
-        <!-- Table row starts -->
-        <tr> 
-            <!--Headers -->
-            <th>Programming Languages</th> 
-            <th>Development</th> 
-        </tr> 
-        <!-- Table row ends -->
-        <tr> 
-            <!-- Table data -->
-            <td>C programming </td> 
-            <td>Full stack development</td> 
-        </tr> 
-        <tr> 
-            <td>Java programming</td> 
-            <td>Backend development</td> 
-        </tr> 
-        <tr> 
-            <td>Angular </td> 
-            <td>Frontend Development</td> 
-        </tr> 
-        <!-- Table Footer starts here -->
-        <tfoot> 
-            <tr> 
-                <td>Footer content</td> 
-            </tr> 
-        </tfoot> 
-        <!-- Table footer ends here -->
-    </table>
+  
   <span title="this is the tooltip.">Move your mouse over me!</span>
 
 </body>
@@ -88,65 +36,11 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
     <img src="YOUR_IMAGE_URL_HERE" alt="Los Angeles Crime Analysis" style="width: 100%; max-width: 400px; height: auto; border-radius: 8px;">
   </div>
   <div style="flex: 2; padding-left: 20px;">
-    <h2>Los Angeles Crime Analysis</h2>
-    <p>Collect Data from LACITY website and uploaded to an AWS Database using Planet Scale. Performed Data Cleansing and Explored Key Metrics using MySQL. The motivation for this project was to investigate how Covid and certain policy in California regarding crime has affected the city. My visualizations were created using Python by utilizing libraries like Matplotlib, Seaborn, and connecting to the database using SQLAlchemy. My business intelligence tool created using Power BI made it easy for the user to visualize specific crime spots and choose filter likings. In the end, my analysis demonstrated that a change in a particular policy, Prop. 47 in California, should be considered and inspires action by the people.</p>
-    <p><strong>Full Project:</strong> [Insert link or call to action here]</p>
+    <h2>Chicago Crime Analysis</h2>
+    <p>Collect Data from Google BigQuery and pulled data using SQL. Performed Data Cleansing and Explored Key Metrics using SQL. The motivation for this project was to investigate how crime on the streets has been on the rise in the last five years. My visualizations were created using R by utilizing libraries like ggplot2,cluster, and connecting to a live database. My business intelligence tool created using Tableau made it easy for the user to visualize specific crime spots and choose filter likings. In the end, my analysis demonstrated that a crimes have been stable,however, fradualent and cyber crimes have been on the rise.</p>
+    <p><strong>Full Project:</strong> https://chicago-crime-62833.stackbit.app/</p>
   </div>
 </div>
-
-
-
-<style>
-.tooltip {
-  position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
-}
-
-.tooltip .tooltiptext {
-  visibility: hidden;
-  width: 120px;
-  background-color: black;
-  color: #fff;
-  text-align: center;
-  border-radius: 6px;
-  padding: 5px 0;
-  
-  /* Position the tooltip */
-  position: absolute;
-  z-index: 1;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -60px;
-}
-
-.tooltip:hover .tooltiptext {
-  visibility: visible;
-}
-</style>
-<body style="text-align:center;">
-
-<h2>Top Tooltip</h2>
-<p>Move the mouse over the text below:</p>
-
-<div class="tooltip">Hover over me
-  <span class="tooltiptext">Tooltip text</span>
-</div>
-
-</body>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

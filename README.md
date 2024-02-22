@@ -78,9 +78,10 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
         </tfoot> 
         <!-- Table footer ends here -->
     </table> 
-</body>
-  <span style="background-color: #004aad> highlighted text.</span>
+  
+  <span title="this is the tooltip.">Move your mouse over me!</span>
 
+</body>
 
 </div>
 

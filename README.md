@@ -36,7 +36,8 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
   <li>
       Medicare Dual Enrollment
       <p>
-        Iowa is home to numerous liquor sales hotspots, and this dataset provides a comprehensive view of the wholesale market. Utilizing data visualization tools like Excel, Looker(SQL Daily Reports), and PowerBI, I have highlighted key sales metrics and honed in on local geography to accurately identify hotspot locations. The dashboards are meticulously crafted to represent local sales and volume accurately, with a focus on creating user-centric designs that are straightforward and intuitive. This approach ensures that the data visualizations not only convey actionable insights but are also easily interpretable, facilitating informed decision-making. <a href="https://github.com/dsrichard97/IowaSales" target="_blank"> Full Project</a>.
+        Health Insurance companies and hospital admissions are always trying to find a way to increase there memberships to provide High Quality Service to people and the 
+        community. Healthcare insurance comapanies want to further understand there targeted groups socially, economically, and geographically. The purpose of this intial exploratory analysis is to look into the type of enrollees in 2015-2019. The data comes from a database, however, I pulled SQL data from the Google Cloud: Dual Enrollment. This process gives insights from a statistical inference perspective to highlight initial analysis for modeling time series or heatmapping. For <a href="https://github.com/dsrichard97/Medicare_Dual_Enroll" target="_blank"> Full Project</a>.
       </p>
     </li>
 

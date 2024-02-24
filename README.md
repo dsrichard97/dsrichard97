@@ -33,6 +33,12 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
         Iowa is home to numerous liquor sales hotspots, and this dataset provides a comprehensive view of the wholesale market. Utilizing data visualization tools like Excel, Looker(SQL Daily Reports), and PowerBI, I have highlighted key sales metrics and honed in on local geography to accurately identify hotspot locations. The dashboards are meticulously crafted to represent local sales and volume accurately, with a focus on creating user-centric designs that are straightforward and intuitive. This approach ensures that the data visualizations not only convey actionable insights but are also easily interpretable, facilitating informed decision-making. <a href="https://github.com/dsrichard97/IowaSales" target="_blank"> Full Project</a>.
       </p>
     </li>
+  <li>
+      Medicare Dual Enrollment
+      <p>
+        Iowa is home to numerous liquor sales hotspots, and this dataset provides a comprehensive view of the wholesale market. Utilizing data visualization tools like Excel, Looker(SQL Daily Reports), and PowerBI, I have highlighted key sales metrics and honed in on local geography to accurately identify hotspot locations. The dashboards are meticulously crafted to represent local sales and volume accurately, with a focus on creating user-centric designs that are straightforward and intuitive. This approach ensures that the data visualizations not only convey actionable insights but are also easily interpretable, facilitating informed decision-making. <a href="https://github.com/dsrichard97/IowaSales" target="_blank"> Full Project</a>.
+      </p>
+    </li>
 
 
 

@@ -38,6 +38,12 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
       <p> Health insurance companies and hospital admission departments consistently strive to enhance their membership bases to offer high-quality services to individuals and the broader community. These entities are keen to gain a deeper understanding of their target demographics in social, economic, and geographical terms. The aim of this initial exploratory analysis is to examine the characteristics of individuals enrolled between 2015 and 2019. The data utilized in this study was retrieved using SQL queries from a database hosted on Google Cloud, specifically focusing on Dual Enrollment. This method provides insights from the standpoint of statistical inference, laying the groundwork for preliminary analyses that could support the modeling of time series or the creation of heatmaps to pinpoint areas with a high concentration of current enrollees.  For <a href="https://github.com/dsrichard97/Medicare_Dual_Enroll" target="_blank"> Full Project</a>.
       </p>
     </li>
+    <li>
+      Crime Analysis Dashboard
+      <p>
+        
+      </p>
+    </li>
 
 
 

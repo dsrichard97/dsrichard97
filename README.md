@@ -28,7 +28,7 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
   
 <ul>
     <li>
-      Iowa Sales Dashboard
+      Iowa Sales Report
       <p>
         Iowa is home to numerous liquor sales hotspots, and this dataset provides a comprehensive view of the wholesale market. Utilizing data visualization tools like Excel, Looker(SQL Daily Reports), and PowerBI, I have highlighted key sales metrics and honed in on local geography to accurately identify hotspot locations. The dashboards are meticulously crafted to represent local sales and volume accurately, with a focus on creating user-centric designs that are straightforward and intuitive. This approach ensures that the data visualizations not only convey actionable insights but are also easily interpretable, facilitating informed decision-making. For <a href="https://github.com/dsrichard97/IowaSales" target="_blank"> Full Project</a>.
       </p>
@@ -41,7 +41,7 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
     <li>
       Crime Analysis Dashboard
       <p>
-        Health insurance companies and hospital admission departments consistently strive to enhance their membership bases to offer high-quality services to individuals and the broader community. These entities are keen to gain a deeper understanding of their target demographics in social, economic, and geographical terms. The aim of this initial exploratory analysis is to examine the characteristics of individuals enrolled between 2015 and 2019. The data utilized in this study was retrieved using SQL queries from a database hosted on Google Cloud, specifically focusing on Dual Enrollment. This method provides insights from the standpoint of statistical inference, laying the groundwork for preliminary analyses that could support the modeling of time series or the creation of heatmaps to pinpoint areas with a high concentration of current enrollees.  For <a href="https://github.com/dsrichard97/Medicare_Dual_Enroll" target="_blank"> Full Project</a>.
+        
       </p>
     </li>
 

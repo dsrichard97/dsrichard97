@@ -41,9 +41,7 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
     <li>
       Crime Analysis Dashboard
       <p>
-        
-      </p>
-    </li>
+       </p>
 
 
 

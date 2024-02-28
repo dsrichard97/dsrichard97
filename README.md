@@ -44,7 +44,7 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
       <p> Crime will always be an issue; however, data analysis can be a powerful tool to uncover patterns and identify preventative measures for future incidents. This report utilizes data from Chicago's IT department, which is fully accessible through Google BigQuery. The data analyzed, using R and Python, covers crime statistics from 2022 to 2023 and highlights the most frequent crimes committed in Chicago. Additionally, the report identifies streets with high crime rates, referred to as "hotzones," from a geographical perspective. These hotzones are determined by clustering specific types of crimes together.  For <a href="https://github.com/dsrichard97/chicago_crime" target="_blank"> Full Project</a>.
       </p>
     </li>
-
+</div>
 
 
 

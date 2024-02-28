@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Richard Diazdeleon.</h1>
+<!-- Typing SVG -->
+<div style="text-align: center;">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+an+Applied+Statistician." alt="Typing SVG" />
+  </a>
+</div>
 <h3 align="center">Data Enthusiast: From Number Crunching to Innovative Solutions, Prioritizing Strong Data Integrity.</h3>
 
 <div>

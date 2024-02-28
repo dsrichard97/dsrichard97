@@ -38,11 +38,11 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
       <p> Health insurance companies and hospital admission departments consistently strive to enhance their membership bases to offer high-quality services to individuals and the broader community. These entities are keen to gain a deeper understanding of their target demographics in social, economic, and geographical terms. The aim of this initial exploratory analysis is to examine the characteristics of individuals enrolled between 2015 and 2019. The data utilized in this study was retrieved using SQL queries from a database hosted on Google Cloud, specifically focusing on Dual Enrollment. This method provides insights from the standpoint of statistical inference, laying the groundwork for preliminary analyses that could support the modeling of time series or the creation of heatmaps to pinpoint areas with a high concentration of current enrollees.  For <a href="https://github.com/dsrichard97/Medicare_Dual_Enroll" target="_blank"> Full Project</a>.
       </p>
     </li>
-    <li>
-      Crime Analysis Dashboard
-      <p>
-       </p>
-
+   <li>
+      Crime Analysis
+      <p> Crime will always be an issue; however, data analysis can be a powerful tool to uncover patterns and identify preventative measures for future incidents. This report utilizes data from Chicago's IT department, which is fully accessible through Google BigQuery. The data analyzed, using R and Python, covers crime statistics from 2022 to 2023 and highlights the most frequent crimes committed in Chicago. Additionally, the report identifies streets with high crime rates, referred to as "hotzones," from a geographical perspective. These hotzones are determined by clustering specific types of crimes together.  For <a href="https://github.com/dsrichard97/chicago_crime" target="_blank"> Full Project</a>.
+      </p>
+    </li>
 
 
 

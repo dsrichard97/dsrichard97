@@ -20,7 +20,7 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
   <h2 align="center">🌐 Socials </h2>
   <p align="center">
     <a href="https://www.linkedin.com/in/richarddiazdeleon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
-    <a href="https://github.com/dsrichard97" target="_blank"><img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white" title="GitHub"></a>
+    <a href="https://dsrichard97.github.io/web/" target="_blank"><img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white" title="GitHub"></a>
   </p>
 </div>
 

@@ -45,9 +45,9 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
       </p>
     </li>
 
-     <li>
+    <p>
       FUTURE DEPLOYMENTS...... WEB APPS
-    </li>
+    </p>
 </div>
 
 

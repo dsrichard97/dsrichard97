@@ -25,10 +25,6 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 </div>
 
 
-<div style="text-align: center;">
-  Click on the links for each of the short description to look at the projects.
-</div>
-
 <h3>Course Completion 👯</h3>
 <ul>
   <li>Certificate 1: <a href="https://coursera.org/share/da1f8fe3ffec6c60f5124f369b365f1f">Fundamentals Of Finance</a></li>

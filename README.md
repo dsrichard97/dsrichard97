@@ -24,33 +24,6 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
   </p>
 </div>
 
-<div>
-  <h2 align="center">👨‍💻 <span title="check web portfolio below"> Latest Projects </span> 💡</h2>
-  <div style="text-align: center;">
-  <h3>Current Projects 🌱</h3>
-  <table align="center">
-    <tr>
-      <th>Projects</th>
-      <th>Short Description</th>
-      <th>Skills Used</th>
-    </tr>
-    <tr>
-      <td>Project #1</td>
-      <td><a href="https://github.com/dsrichard97/cdc_births/tree/main">CDC Birth Summary</a></td>
-      <td>SQL, R, Python, Tableau</td>
-    </tr>
-    <tr>
-      <td>Project #2</td>
-      <td><a href="https://github.com/dsrichard97/Medicare_Dual_Enroll">Medicare - Medicaid Dual Enrollment 2015-2018</a></td>
-      <td>SQL, Python, Tableau</td>
-    </tr>
-    <tr>
-      <td>Project #4</td>
-      <td><a href="https://github.com/dsrichard97/otherprojects">Other Projects</a></td>
-      <td>MySQL, R, Python, Snowflake, BigQuery, Redshift</td>
-    </tr>
-  </table>
-</div>
 
 <div style="text-align: center;">
   Click on the links for each of the short description to look at the projects.

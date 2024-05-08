@@ -25,17 +25,6 @@ My foundation in statistics is strengthened by a deep understanding of Linear Al
 </div>
 
 
-<h3>Course Completion 👯</h3>
-<ul>
-  <li>Certificate 1: <a href="https://coursera.org/share/da1f8fe3ffec6c60f5124f369b365f1f">Fundamentals Of Finance</a></li>
-  <li>Certificate 2: <a href="https://coursera.org/share/d5f90366a539002560c233f4b2fcfbcb">Fundamentals of Quantitative Modeling</a></li>
-  <li>Certificate 3: <a href="https://coursera.org/share/725e57655ad036a580c302627f539fb4">Introduction to Financial Accounting</a></li>
-  <li>Certificate 4: <a href="https://coursera.org/share/72677cff1a83e5b5b29b6e7c3c2552df">Machine Learning</a></li>
-</ul>
-
-
-</div>
-
 
 
 <div>

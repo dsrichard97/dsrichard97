@@ -1,7 +1,7 @@
 <!--
 - !! Thank you for keeping this sign !!
-- Original Creation by Deri Kurniawan (Deri-Kurniawan)
-- Github Repository: https://github.com/Deri-Kurniawan/Deri-Kurniawan
+- -> Updated by me: Richard
+- Github Repository: https://github.com/dsrichard97/dsrichard97
 - ⭐ Don't forget to give a star ⭐
 -->
 
@@ -16,58 +16,59 @@
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'US';
+import { Person } from 'MEX';
+
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id',
-    married: !!!true,
+    name   : 'Richard',
+    title  : 'Fin Analyst',
+    email  : 'diazrichard98@gmail.com',
+    website: 'https://dsrichard97.github.io/web/',
+    mathematican: !!!true,
 }).introduce();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+Hi, my name is Richard, I'm a Fin. Analyst from USA.
 ```
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/dsrichard97?label=Followers) ![Stars](https://img.shields.io/github/stars/dsrichard97?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-🌆 Daytime                2392 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
-🌃 Evening                1886 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
-🌙 Night                  656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+🌞 Morning                58 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌆 Daytime                139 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
+🌃 Evening                118 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌙 Night                  65 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: US/California
 
 💬 Programming Languages: 
-TypeScript               29 hrs 1 min        █████████████████████░░░░   84.78 % 
+TypeScript               19 hrs 1 min        █████████████████████░░░░   84.78 % 
 JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 13 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 13 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  34 hrs 13 mins      █████████████████████████   100.00 % 
+mac OS                   24 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10-05-2024 17:18:47 UTC
+ Last Updated on 11-05-2024 11:18:47 UTC
 <!--END_SECTION:waka-->
   
 </div>
@@ -84,7 +85,7 @@ Windows                  34 hrs 13 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=aws,notion,ts,react,nextjs,r,nodejs,express,laravel,mysql,planetscale,git,vscode,linkedin,vercel,latex,cloudflare,prisma&perline=6" />
 </a>
 </p>
 
@@ -141,23 +142,13 @@ Windows                  34 hrs 13 mins      ███████████�
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<!-- Support me -->
-<h3 align="center">☕Support Me☕</h3>
-
-<div align="center">
-  
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
+    Made with ❤️ by <a href="https://dsrichard97.github.io/web/" target="_blank">Richard Diaz</a>
 </div>
 
 <!--x axis divider-->

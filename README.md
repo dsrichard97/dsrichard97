@@ -1,75 +1,164 @@
-<h1 align="center">Hi 👋, I'm Richard Diazdeleon.</h1>
+<!--
+- !! Thank you for keeping this sign !!
+- Original Creation by Deri Kurniawan (Deri-Kurniawan)
+- Github Repository: https://github.com/Deri-Kurniawan/Deri-Kurniawan
+- ⭐ Don't forget to give a star ⭐
+-->
 
-<h3 align="center">Data Enthusiast: From Number Crunching to Innovative Solutions, Prioritizing Strong Data Integrity.</h3>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div>
-  <h2 align="center">🌠 About Me<img src="https://komarev.com/ghpvc/?username=dsrichard97&color=orange""  title="Page View Count"></h2>
-  <p>
-    My name is Richard and I am a statistican who utilize logical programming to extract meaningful insights from data using appealing visualizations, statistical techniques, and machine learning. My expertise encompasses the creation of compelling data visualizations and the application of statistical methods and machine learning algorithms to address real-world problems. I am proficient in utilizing a suite of Python libraries, including Pandas, Matplotlib, and Plotly, to develop insightful visual representations of data. Additionally, I leverage Tableau for the creation of dashboard reports that highlight essential KPIs and ensure data cleanliness.
+<picture> 
+<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<img src="/assets//images/developer.webp" align="right" width="350">
+</a>
+</picture>
 
-My statistical methodology is comprehensive, incorporating techniques such as correlation analysis, t-tests, chi-square tests, ANOVA/MANOVA, among others, to uncover underlying patterns and relationships within data. I am adept at designing and implementing robust experimental setups, including A/B testing, to validate results and inform strategic decisions.
+```js
+"use creativity";
+import { Person } from 'indonesia';
 
-My foundation in statistics is strengthened by a deep understanding of Linear Algebra, Statistical Inference, Optimization, and Probability, which underpins my ability to develop and evaluate machine learning models with appropriate assumptions. I am committed to continuous learning and staying at the forefront of the field, regularly engaging with the latest research in machine learning, staying updated with current data techniques through platforms like Medium, and following thought leaders in Artificial Intelligence.
-  </p>
-  <p>
-    In the future I see myself sharing my knowledge and helping others learn. I see myself creating full tutorials on projects that relate to Data Science and Data Engineering on my GitHub. I plan to start writing blogs on Medium and uploading more work onto Kaggle. I hope to inspire new comers into the world of Data by taking a simplistic approach in my methods that will motivate them to grow. 
-  </p>
+new Person({
+    name   : 'Deri Kurniawan',
+    title  : 'Full Stack Developer',
+    email  : 'deri.netuchi@gmail.com',
+    website: 'https://deri.my.id',
+    married: !!!true,
+}).introduce();
+```
+
+```cmd
+D:\Deri-Kurniawan> node index.js
+Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+```
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌆 Daytime                2392 commits        ███████████░░░░░░░░░░░░░░   43.34 % 
+🌃 Evening                1886 commits        █████████░░░░░░░░░░░░░░░░   34.17 % 
+🌙 Night                  656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               29 hrs 1 min        █████████████████████░░░░   84.78 % 
+JSON                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Bash                     1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JavaScript               1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+
+🔥 Editors: 
+VS Code                  34 hrs 13 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  34 hrs 13 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 10-05-2024 17:18:47 UTC
+<!--END_SECTION:waka-->
+  
 </div>
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+</a>
+</p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">🔥Streak Stats🔥</h3>
+
+<!-- custom streak stats: https://git.io/streak-stats -->
+<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<h3 align="center">⭐My Favorite Repo⭐</h3>
+
 <div>
-  <h2 align="center">🌐 Socials </h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/richarddiazdeleon/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
-    <a href="https://dsrichard97.github.io/web/" target="_blank"><img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white" title="GitHub"></a>
-  </p>
+	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
+    	</a>
+	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/derizer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	</a>
 </div>
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
 
-
-<div>
-  <h2 align="center">💻 Tech Stack</h2>
-  <p>
-    <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" title="Python">
-    <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white" title="R">
-    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" title="Google Cloud Platform (GCP)">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" title="Amazon Web Service (AWS)">
-    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white" title="Microsoft Azure (AZ)">
-    <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white" title="Anaconda">
-    <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" title="FastAPI">
-    <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" title="Flask">
-    <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=Apache%20Airflow&logoColor=white" title="Apache Airflow">
-    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" title="Microsoft SQL Server">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" title="MySQL">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" title="Numpy">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" title="Pandas">
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" title="Plotly">
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white" title="PyTorch">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" title="Scikit-Learn">
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white" title="SciPy">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" title="TensorFlow">
-  </p>
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
+[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
+  
 </div>
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
-<div>
-  <h2 align="center">📊 GitHub Stats</h2>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dsrichard97&show_icons=true&locale=en&layout=compact" alt="dsrichard97" /></p>
+<!-- Support me -->
+<h3 align="center">☕Support Me☕</h3>
 
-  <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=dsrichard97&show_icons=true&locale=en" alt="dsrichard97" /></p>
+<div align="center">
+  
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<div align="center">
+    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
 </div>
 
-<div>
-  <h2 align="center">⚡ Interesting Quote</h2>
-  <p align="center">
-    <code>
-      "The best way to conduct research is to attack it in a way that no one else has." <br>
-      - Jim Simmons
-    </code>
-  </p>
-</div>
-
-
-
-
-
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">

@@ -23,7 +23,6 @@ import { Person } from 'MEX';
 new Person({
     name   : 'Richard',
     title  : 'Fin Analyst',
-    email  : 'diazrichard98@gmail.com',
     website: 'https://dsrichard97.github.io/web/',
     mathematican: !!!true,
 }).introduce();

@@ -103,11 +103,8 @@ mac OS                   24 hrs 13 mins      ███████████�
 
 <div>
   <p align="center">
-	<a href="https://github.com/dsrichard97/NVIDIA_Financials">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=NVIDIA_Financials&theme=vision-friendly-dark" alt="GitHub Stats" />
-    	</a>
-      <a href="https://github.com/dsrichard97/NVIDIA_Financials">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=NVIDIA_Financials&theme=vision-friendly-dark" alt="GitHub Stats" />
+      <a href="https://github.com/dsrichard97/csulbdataday24M">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=csulbdataday24M&theme=vision-friendly-dark" alt="GitHub Stats" />
     	</a>
 </div>
 

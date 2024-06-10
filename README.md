@@ -37,7 +37,7 @@ Hi, my name is Richard, I'm a Fin. Analyst from USA.
 [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/dsrichard97?label=Followers) ![Stars](https://img.shields.io/github/stars/dsrichard97?label=Stars)
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm an Night 🦉** 
 
 ```text
 🌞 Morning                58 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 

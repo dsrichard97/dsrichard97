@@ -34,7 +34,7 @@ Hi, my name is Richard, I'm a Fin. Analyst from USA.
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/dsrichard97?label=Followers) ![Stars](https://img.shields.io/github/stars/dsrichard97?label=Stars)
+[![Followers](https://img.shields.io/github/followers/dsrichard97?label=Followers) ![Stars](https://img.shields.io/github/stars/dsrichard97?label=Stars)]
 
 <!--START_SECTION:waka-->
 **I'm an Night 🦉** 

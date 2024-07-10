@@ -121,12 +121,6 @@ macOS                    21 hrs 10 mins      ███████████�
 [![image](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@diazrichard98)
   
 </div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 

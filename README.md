@@ -30,7 +30,7 @@ new Person({
 
 ```cmd
 Hi, I'm Richard 👋
-I'm a Financial Analyst with 2 years of experience in the healthcare industry, based in the USA. I believe in the power of incremental growth, striving to be at least 0.01% better every day. Currently expanding my knowledge in Data Science methodologies, Dashboards, and Report Automation.
+I'm a Financial Analyst with 2 years of experience in the healthcare industry, based in the USA.
 ```
 
 <div align="center">

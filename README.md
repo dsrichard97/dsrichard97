@@ -1,4 +1,13 @@
-<img src="data_analystbanner.png" width="840" height="200" allow="autoplay">
+<img 
+  src="banner-840x200.png" 
+  srcset="
+    banner-840x200.png 1x,
+    banner-1680x400.png 2x,
+    banner-2520x600.png 3x
+  "
+  alt="Data Analyst Banner"
+  style="width: 100%; height: auto;"
+/>
 <h1 align="center">Hi 👋, I'm Richard DiazDeLeon.</h1>
 <h3 align="center">Data Driven with a passion for crunching numbers and believes in good data practices.</h3>
 

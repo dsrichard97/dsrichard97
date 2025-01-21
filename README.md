@@ -14,13 +14,17 @@ My expertise includes applying statistical methods like correlation analysis, t-
   </p>
 </div>
 
-<div>
-  <h2 align="center">🌐 Socials </h2>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/luisosorio3214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"></a>
-    <a href="https://github.com/luisosorio3214" target="_blank"><img src="https://img.shields.io/badge/-Github-grey?style=for-the-badge&logo=github&logoColor=white" title="GitHub"></a>
-    <a href="https://www.kaggle.com/luisosorio3214" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" title="Kaggle"></a>
-  </p>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
+<!-- Connect with me -->
+<h3 align="center">🤝Connect with Me🤝</h3>
+<div align="center">
+    
+[![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=html5&logoColor=black)](https://dsrichard97.github.io/web/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
+[![image](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@diazrichard98)
+  
 </div>
 
 <!--x axis divider-->

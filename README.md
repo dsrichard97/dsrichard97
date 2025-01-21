@@ -73,8 +73,8 @@ My expertise includes applying statistical methods like correlation analysis, t-
 </div>
 <div>
   <p align="center">
-      <a href="https://github.com/dsrichard97/econconfigmath?tab=readme-ov-file">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=econconfigmathM&theme=vision-friendly-dark" alt="GitHub Stats" />
+      <a href="https://github.com/dsrichard97/econconfigmath">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=econconfigmath&theme=vision-friendly-dark" alt="GitHub Stats" />
     	</a>
 </div>
 

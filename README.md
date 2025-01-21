@@ -71,6 +71,12 @@ My expertise includes applying statistical methods like correlation analysis, t-
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=csulbdataday24M&theme=vision-friendly-dark" alt="GitHub Stats" />
     	</a>
 </div>
+<div>
+  <p align="center">
+      <a href="https://github.com/dsrichard97/econconfigmath?tab=readme-ov-file">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=econfigmathM&theme=vision-friendly-dark" alt="GitHub Stats" />
+    	</a>
+</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

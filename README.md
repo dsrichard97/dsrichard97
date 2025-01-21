@@ -1,9 +1,9 @@
-<img src="Images/git_scientist.png" width="840" height="200" allow="autoplay">
+<img src="data_analystbanner.png" width="840" height="200" allow="autoplay">
 <h1 align="center">Hi 👋, I'm Richard DiazDeLeon.</h1>
 <h3 align="center">Data Driven with a passion for crunching numbers and believes in good data practices.</h3>
 
 <div>
-  <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=green" title="Page View Count"></h2>
+  <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
   <p>
     My name is Richard DiazDeLeon, and I am a financial analyst and data science professional with two years of experience, including a data science internship in the healthcare industry. I specialize in extracting actionable insights from complex datasets by leveraging advanced statistical techniques, machine learning, and data visualization tools. Proficient in Python libraries such as Pandas, Matplotlib, and Plotly, I enjoy crafting insightful and visually compelling representations of data. Additionally, I use Power BI to build interactive dashboards with key performance indicators (KPIs) and clean and transform data using Power Query Editor, ensuring high-quality inputs for analysis.
 

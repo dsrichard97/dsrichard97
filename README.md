@@ -1,5 +1,5 @@
 <img 
-  src="banner-840x200.png" 
+  src="data_analystbanner.png" 
   srcset="
     banner-840x200.png 1x,
     banner-1680x400.png 2x,

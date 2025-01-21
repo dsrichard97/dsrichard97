@@ -59,6 +59,8 @@ My expertise includes applying statistical methods like correlation analysis, t-
 
 <!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center"><img src="https://streak-stats.demolab.com/?user=dsrichard97&theme=vision-friendly-dark" alt="dsrichard97" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dsrichard97" alt="GitHub Streak" /></a>
+</p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

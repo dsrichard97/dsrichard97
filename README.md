@@ -97,7 +97,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://github.com/dsrichard97" target="_blank"> </a>
+    Made with ❤️ <a href="https://github.com/dsrichard97" target="_blank"> </a>
 </div>
 
 <!--x axis divider-->

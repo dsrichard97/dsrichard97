@@ -28,7 +28,8 @@
 [![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=html5&logoColor=black)](https://dsrichard97.github.io/web/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
 [![image](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@diazrichard98)
-  
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:diazrichard98@gmail.com)
+ 
 </div>
 
 <!--x axis divider-->
@@ -104,6 +105,3 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <br></br>
-📫 Portfolio & Email:   
-├─ [Portfolio](https://mpavlenk.github.io/)   
-└─ [Email](mailto:mpavlenk@uci.edu) 

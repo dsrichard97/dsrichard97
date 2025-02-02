@@ -59,7 +59,7 @@
         <ul>
           <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Financial Planning Analyst, Finance</li>
           <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Data Scientist Intern, Enterprise</li>
-          <li><a href="https://web.nmusd.us/">Kaiser Permanente</a> / Math Tutor</li>
+          <li><a href="https://web.nmusd.us/">Newport Mesa USD</a> / Math Tutor</li>
         </ul>
       </li>
       <li>📚 <b>Education</b>

@@ -52,24 +52,38 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <h3 align="center">🔥Quick Overview🔥</h3>
-├─🚀 <b>Professional Overview</b>  
-│ ├─💼 <b>Career</b>  
-│ │ ├─ <a href="https://www.directv.com/">DIRECTV</a> / Sr Data Analyst, Satellite Software Engineering    
-│ │ ├─ <a href="https://www.att.com/">AT&T</a> / Data Analyst, Product Field Engineering  
-│ │ ├─ <a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Data Analyst, Intern  
-│ │ ├─ <a href="https://www.rehrigpacific.com/">Rehrig Pacific</a> / Accounts Receivable Analyst   
-│ │ └─ <a href="https://www.clickky.biz/">Clickky</a> / Web Traffic Security Analyst   
-│ └─📚 <b>Education</b>  
-│ │ ├─ <a href="https://uci.edu/">UC Irvine</a> / MS Business Analytics  
-│ │ ├─ <a href="https://www.fullcoll.edu/">Fullerton College</a> / AS Business Management    
-│ │ └─ <a href="http://onu.edu.ua/">Odessa Mechnikov National University</a> / BA & MA Linguistics  
-│ └─📦 <b>Specialization & Expertise</b>  
-│ │ ├─ Data Pipepline Design | Data Architecture Development | Complex SQL queries Creation and Optimization  
-│ │ ├─ Data Migration | Data Governance & Security | Data Manipulation | Data Quality & Validation  
-│ │ ├─ Data Analytics  
-│ │ ├─ Machine Learning  
-│ │ └─ Data Visualization & Presentation  
-└─💡 <b>Data Community Affiliation</b>  
+<ul>
+  <li>🚀 <b>Professional Overview</b>
+    <ul>
+      <li>💼 <b>Career</b>
+        <ul>
+          <li><a href="https://www.directv.com/">DIRECTV</a> / Sr Data Analyst, Satellite Software Engineering</li>
+          <li><a href="https://www.att.com/">AT&T</a> / Data Analyst, Product Field Engineering</li>
+          <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Data Analyst, Intern</li>
+          <li><a href="https://www.rehrigpacific.com/">Rehrig Pacific</a> / Accounts Receivable Analyst</li>
+          <li><a href="https://www.clickky.biz/">Clickky</a> / Web Traffic Security Analyst</li>
+        </ul>
+      </li>
+      <li>📚 <b>Education</b>
+        <ul>
+          <li><a href="https://uci.edu/">UC Irvine</a> / MS Business Analytics</li>
+          <li><a href="https://www.fullcoll.edu/">Fullerton College</a> / AS Business Management</li>
+          <li><a href="http://onu.edu.ua/">Odessa Mechnikov National University</a> / BA &amp; MA Linguistics</li>
+        </ul>
+      </li>
+      <li>📦 <b>Specialization &amp; Expertise</b>
+        <ul>
+          <li>Data Pipeline Design | Data Architecture Development | Complex SQL Queries Creation and Optimization</li>
+          <li>Data Migration | Data Governance &amp; Security | Data Manipulation | Data Quality &amp; Validation</li>
+          <li>Data Analytics</li>
+          <li>Machine Learning</li>
+          <li>Data Visualization &amp; Presentation</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>💡 <b>Data Community Affiliation</b></li>
+</ul>
 
 
 <!--x axis divider-->

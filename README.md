@@ -66,9 +66,9 @@
       </li>
       <li>📚 <b>Education</b>
         <ul>
-          <li><a href="https://uci.edu/">UC Irvine</a> / MS Business Analytics</li>
-          <li><a href="https://www.fullcoll.edu/">Fullerton College</a> / AS Business Management</li>
-          <li><a href="http://onu.edu.ua/">Odessa Mechnikov National University</a> / BA &amp; MA Linguistics</li>
+          <li><a href="https://www.csulb.edu/mathematics-statistics/applied-statistics-graduate-program">CSU Long Beach</a> / MS Applied Statistics</li>
+          <li><a href="https://www.fullerton.edu/MATH/">CSU Fullerton</a> / BA Applied Mathematics</li>
+          <li><a href="https://sac.edu/AcademicProgs/ScienceMathHealth/Mathematics/Pages/default.aspx">Santa Ana College</a> / AS Mathematics</li>
         </ul>
       </li>
       <li>📦 <b>Specialization &amp; Expertise</b>
@@ -81,8 +81,6 @@
         </ul>
       </li>
     </ul>
-  </li>
-  <li>💡 <b>Data Community Affiliation</b></li>
 </ul>
 
 

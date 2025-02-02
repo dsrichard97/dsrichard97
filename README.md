@@ -57,11 +57,9 @@
     <ul>
       <li>💼 <b>Career</b>
         <ul>
-          <li><a href="https://www.directv.com/">DIRECTV</a> / Sr Data Analyst, Satellite Software Engineering</li>
-          <li><a href="https://www.att.com/">AT&T</a> / Data Analyst, Product Field Engineering</li>
-          <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Data Analyst, Intern</li>
-          <li><a href="https://www.rehrigpacific.com/">Rehrig Pacific</a> / Accounts Receivable Analyst</li>
-          <li><a href="https://www.clickky.biz/">Clickky</a> / Web Traffic Security Analyst</li>
+          <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Financial Planning Analyst, Finance</li>
+          <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Data Scientist Intern, Enterprise</li>
+          <li><a href="https://web.nmusd.us/">Kaiser Permanente</a> / Math Tutor</li>
         </ul>
       </li>
       <li>📚 <b>Education</b>

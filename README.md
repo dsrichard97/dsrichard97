@@ -82,12 +82,6 @@
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=csulbdataday24M&theme=vision-friendly-dark" alt="GitHub Stats" />
     	</a>
 </div>
-<div>
-  <p align="center">
-      <a href="https://github.com/dsrichard97/econconfigmath">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=econconfigmath&theme=vision-friendly-dark" alt="GitHub Stats" />
-    	</a>
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

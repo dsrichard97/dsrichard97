@@ -60,7 +60,6 @@
       </li>
       <li>📦 <b>Specialization &amp; Expertise</b>
         <ul>
-          <li>Data Pipeline Design | Data Architecture Development | Complex SQL Queries Creation and Optimization</li>
           <li>Data Migration | Data Governance &amp; Security | Data Manipulation | Data Quality &amp; Validation</li>
           <li>Data Analytics</li>
           <li>Machine Learning</li>

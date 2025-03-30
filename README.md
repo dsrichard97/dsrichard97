@@ -17,7 +17,6 @@
     
 [![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=html5&logoColor=black)](https://dsrichard97.github.io/web/)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
-[![image](https://img.shields.io/badge/Medium-0077B5?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@diazrichard98)
  
 </div>
 

@@ -68,19 +68,6 @@
     </ul>
 </ul>
 
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center">⭐My Favorite Repo⭐</h3>
-
-<div>
-  <p align="center">
-      <a href="https://github.com/dsrichard97/csulbdataday24M">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=dsrichard97&repo=csulbdataday24M&theme=vision-friendly-dark" alt="GitHub Stats" />
-    	</a>
-</div>
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 

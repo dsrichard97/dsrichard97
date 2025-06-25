@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard DiazDeLeon.</h1>
-<h3 align="center"> " ALL I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
+<h3 align="center"> " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
 
 <div>
   <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>

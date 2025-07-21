@@ -4,7 +4,7 @@
 <div>
   <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
   <p>
-<br><b>Financial Analyst</b> with <b>over 3 years of experience</b>. Proficient in designing, deploying, testing, & maintaining <b>data warehouse & technical architectures</b>, ETLs, data manipulation, analytics, & visualizations. Multi-lingual professional with a unique combination of broad & deep business, & technology experience. Proven track record of accomplishments in <b>data analysis</b>, building <b>predictive ML models, analyzing & visualizing complex data</b> by delivering insights & implementing robust engineered, user-focused solutions while driving breakthrough efficiently & improving bottom-line results. Creative problem solver & strategic decision maker in fast-paced fluid environments.</br> 
+<br><b>Financial Analyst</b> with <b>over 2.5 years of experience</b>. Proficient in designing, deploying, testing, & maintaining <b>data warehouse & technical architectures</b>, ETLs, data manipulation, analytics, & visualizations. Multi-lingual professional with a unique combination of broad & deep business, & technology experience. Proven track record of accomplishments in <b>data analysis</b>, building <b>predictive ML models, analyzing & visualizing complex data</b> by delivering insights & implementing robust engineered, user-focused solutions while driving breakthrough efficiently & improving bottom-line results. Creative problem solver & strategic decision maker in fast-paced fluid environments.</br> 
   </p>
 </div>
 

@@ -18,11 +18,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
 </div>
 
-<h2 align="center">🔭 About Me 🔭</h2>
-
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-
+<h2 align="center">🔭 About Me 🔭</h2>
 <p>
 <b>Financial Analyst</b> with 3+ years of experience operating at the intersection of 
 <b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured thought frameworks(company infastructure + market dynamics)—leveraging data and finance <b>ETL pipelines(Databases), modeling(APPs to run models), automation(end-user viability), and data visualizations(Dashboards)</b> 

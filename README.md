@@ -47,9 +47,11 @@ intersection of <b>econometrics, machine learning, and high-dimensional data ana
  
 </div>
 
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️. Find Success in the Struggle. If you are strugggling, you are improving! <a href="https://github.com/dsrichard97" target="_blank"> </a>
+    PS: Find success in the struggle. Be diiferent. Made with ❤️. <a href="https://github.com/dsrichard97" target="_blank"> </a>
 </div>
 
 <!--x axis divider-->

@@ -14,12 +14,26 @@
 
 <div>
   <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
-  <p>
-<br><b>Financial Analyst</b> with <b>over 2.5 years of experience</b>. Proficient in designing, deploying, testing, & maintaining <b>data warehouse & technical architectures</b>, ETLs, data manipulation, analytics, & visualizations. Multi-lingual professional with a unique combination of broad & deep business, & technology experience. Proven track record of accomplishments in <b>data analysis</b>, building <b>predictive ML models, analyzing & visualizing complex data</b> by delivering insights & implementing robust engineered, user-focused solutions while driving breakthrough efficiently & improving bottom-line results. Creative problem solver & strategic decision maker in fast-paced fluid environments.</br> 
-  </p>
+
 </div>
+<p>
+<b>Financial Analyst</b> with 2.5+ years of experience operating at the intersection of 
+<b>data, finance, and decision science</b>. I specialize in transforming ambiguous business problems 
+into structured analytical frameworks—leveraging <b>ETL pipelines, statistical modeling, and data visualization</b> 
+to drive measurable outcomes.
+</p>
 
+<p>
+My work goes beyond reporting: I focus on <b>understanding underlying systems</b>—how data is generated, 
+how assumptions propagate, and where models fail. This perspective allows me to build solutions that are not only 
+functional, but <b>robust, interpretable, and aligned with real-world constraints</b>.
+</p>
 
+<p>
+I have experience developing <b>predictive models</b>, designing <b>data architectures</b>, and delivering 
+insights that improve operational and financial performance. I am particularly interested in the 
+intersection of <b>econometrics, machine learning, and high-dimensional data analysis</b>.
+</p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

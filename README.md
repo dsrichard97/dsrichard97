@@ -52,8 +52,8 @@ My work extends beyond traditional reporting(GAAP reporting). I focus on <b>unde
 
 <div align="center">
   <p>✔️ <strong>Question</strong> everything—interrogate assumptions to separate objective truths from noise.</p>
-  <p>✔️ <strong>Quantify</strong> your experiences using both holistic data and heuristic frameworks.</p>
-  <p>✔️ <strong>Qualify</strong> the habits behind your decisions, identifying if they were proactive or reactive.</p>
+  <p>✔️ <strong>Quantify</strong> your experiences using both holistic data(past experiences) and heuristic frameworks(systems currently in place).</p>
+  <p>✔️ <strong>Qualify</strong> the habits behind your decisions(past inputs), identifying if they were proactive or reactive.</p>
 </div>
 
 <!--x axis divider-->

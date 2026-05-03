@@ -18,7 +18,7 @@
 </div>
 <p>
 <b>Financial Analyst</b> with 3+ years of experience operating at the intersection of 
-<b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured analytical frameworks—leveraging data and finance <b>ETL pipelines, modeling, automation, and data visualizations</b> 
+<b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured thought frameworks(company infastructure + market dynamics)—leveraging data and finance <b>ETL pipelines(Databases), modeling(APPs to run models), automation(end-user viability), and data visualizations(Dashboards)</b> 
 to help drive measurable outcomes.
 </p>
 

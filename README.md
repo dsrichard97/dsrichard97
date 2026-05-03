@@ -1,4 +1,8 @@
 <h1 align="center"> 🚘 Hi, I'm Richard! 🚘 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Richard!;Data+Science+%7C+Finance+%7C+Analytics&center=true&width=600&height=50">
+</p>
+
 <h3 align="center"> 📜 Favorite Quote 📜 </h3>
 
 <p align="center">

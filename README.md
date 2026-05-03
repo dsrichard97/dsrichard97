@@ -17,23 +17,16 @@
 
 </div>
 <p>
-<b>Financial Analyst</b> with 2.5+ years of experience operating at the intersection of 
-<b>data, finance, and decision science</b>. I specialize in transforming ambiguous business problems 
-into structured analytical frameworks—leveraging <b>ETL pipelines, statistical modeling, and data visualization</b> 
-to drive measurable outcomes.
+<b>Financial Analyst</b> with 3+ years of experience operating at the intersection of 
+<b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured analytical frameworks—leveraging data and finance <b>ETL pipelines, modeling, automation, and data visualizations</b> 
+to help drive measurable outcomes.
 </p>
 
-<p>
-My work goes beyond reporting: I focus on <b>understanding underlying systems</b>—how data is generated, 
-how assumptions propagate, and where models fail. This perspective allows me to build solutions that are not only 
-functional, but <b>robust, interpretable, and aligned with real-world constraints</b>.
-</p>
 
 <p>
-I have experience developing <b>predictive models</b>, designing <b>data architectures</b>, and delivering 
-insights that improve operational and financial performance. I am particularly interested in the 
-intersection of <b>econometrics, machine learning, and high-dimensional data analysis</b>.
+My work extends beyond traditional reporting. I focus on <b>understanding underlying systems</b>—how data is generated and cleaned 🧹, how assumptions propagate through models 🤖, and where analytical approaches can break down. This perspective enables me to design solutions that are not only functional, but <b>robust, interpretable, and grounded in real-world constraints</b>.
 </p>
+
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

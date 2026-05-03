@@ -2,13 +2,6 @@
   Welcome to Richard’s GitHub <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count">
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Richard!;Data+Science+%7C+Finance+%7C+Analytics&center=true&width=600&height=50">
-</p>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 

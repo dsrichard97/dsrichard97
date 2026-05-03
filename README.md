@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Richard!</h1>
+<h1 align="center"> 🚘 Hi, I'm Richard! 🚘 </h1>
 <h3 align="center"> Favorite Quote: " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
 
 <div>

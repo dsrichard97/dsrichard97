@@ -18,7 +18,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
 </div>
 
-<h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
+<h2 align="center">🔭 About Me 🔭</h2>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

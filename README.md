@@ -20,7 +20,7 @@
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-<h2 align="center">🔭 About Me 🔭</h2>
+<h3 align="center">🔭 About Me 🔭</h3>
 <p>
 <b>Financial Analyst</b> with 3+ years of experience operating at the intersection of 
 <b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured thought frameworks(company infastructure + market dynamics)—leveraging data and finance <b>ETL pipelines(Databases), modeling(APPs to run models), automation(end-user viability), and data visualizations(Dashboards)</b> 

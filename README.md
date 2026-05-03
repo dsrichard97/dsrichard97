@@ -17,16 +17,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
  
 
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif"><h3 align="center"> 📜 Favorite Quote 📜 </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=All+I+want+to+know+is+where+I'm+going+to+be+wrong.;Charlie+Munger&center=true&width=600&height=50">
-</p>
-
-
-  <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
+<h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

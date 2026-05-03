@@ -2,8 +2,20 @@
   Welcome to Richard’s GitHub <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count">
 </h3>
 
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
+<style>
+  .flip-header {
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    display: inline-block;
+  }
+  .flip-header:hover {
+    transform: rotateY(360deg);
+  }
+  .container { text-align: center; }
+</style>
+
+<div class="container">
+  <h3 class="flip-header">🤝 Connect with Me 🤝</h3>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Richard!;Data+Science+%7C+Finance+%7C+Analytics&center=true&width=600&height=50">

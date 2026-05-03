@@ -44,14 +44,17 @@ My work extends beyond traditional reporting(GAAP reporting). I focus on <b>unde
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<!-- Connect with me -->
-<h3 align="center">🤝Connect with Me🤝</h3>
-<div align="center">
-    
-[![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=html5&logoColor=black)](https://dsrichard97.github.io/test/#about)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
- 
-</div>
+<h3 align="center">🤝 Advice 🤝</h3>
+<p align="center">
+  Advice for future financial analysts and interns: 
+  <strong>Follow the 3 Q's</strong> (Developed from common LinkedIn inquiries).
+</p>
+
+<p align="center">
+  <strong>1. Question</strong> everything—interrogate your assumptions to separate objective market truths from noise.<br>
+  <strong>2. Quantify</strong> your experiences using both holistic data and heuristic frameworks to measure impact.<br>
+  <strong>3. Qualify</strong> the habits behind your decisions, identifying whether they were proactive or merely reactive.
+</p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

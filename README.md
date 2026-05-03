@@ -12,7 +12,8 @@
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
 
-    
+<dive align="center">
+  
 [![image](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=html5&logoColor=black)](https://dsrichard97.github.io/test/#about)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richarddiazdeleon/)
 </div>

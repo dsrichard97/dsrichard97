@@ -1,5 +1,5 @@
 <h1 align="center"> 🚘 Hi, I'm Richard! 🚘 </h1>
-
+<h3 align="center"> 📜 Favorite Quote: " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
 
 <div>
   <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
@@ -41,10 +41,6 @@
 </a>
 </p>
 
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<h3 align="center"> 📜 Favorite Quote: " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

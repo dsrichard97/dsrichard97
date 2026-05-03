@@ -1,5 +1,5 @@
 <h1 align="center"> 🚘 Hi, I'm Richard! 🚘 </h1>
-<h3 align="center"> 📜 Favorite Quote: " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
+<h3 align="center"> 📜 Favorite Quote: </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=All+I+want+to+know+is+where+I'm+going+to+be+wrong.;Charlie+Munger&center=true&width=600&height=50">

@@ -1,4 +1,6 @@
-<h3 align="center">  Hello, Welcome to Richard'd Github.  </h3>
+<h3 align="center">
+  Welcome to Richard’s GitHub
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Richard!;Data+Science+%7C+Finance+%7C+Analytics&center=true&width=600&height=50">

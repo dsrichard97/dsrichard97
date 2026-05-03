@@ -11,6 +11,17 @@
 
 <!-- Connect with me -->
 <h3 align="center">🤝Connect with Me🤝</h3>
+<p align="center">
+  <img src="https://i.gifer.com/ZdPH.gif" width="50" alt="fast car animation" style="vertical-align: middle;">
+  <span style="font-size: 1.2em; font-family: monospace; color: #888; vertical-align: middle;">
+    Profile under construction... Full speed ahead!
+  </span>
+  <img src="https://i.gifer.com/ZdPH.gif" width="50" alt="fast car animation" style="vertical-align: middle;">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi,+I'm+Richard!;Data+Science+%7C+Finance+%7C+Analytics&center=true&width=600&height=50">
+</p>
 
 <div align="center">
   

@@ -24,7 +24,7 @@ to help drive measurable outcomes.
 
 
 <p>
-My work extends beyond traditional reporting. I focus on <b>understanding underlying systems</b>—how data is generated and cleaned 🧹, how assumptions propagate through models 🤖, and where analytical approaches can break down. This perspective enables me to design solutions that are not only functional, but <b>robust, interpretable, and grounded in real-world constraints</b>.
+My work extends beyond traditional reporting(GAAP reporting). I focus on <b>understanding underlying systems</b>—how data is generated and cleaned 🧹, how assumptions propagate through models 🤖, and where analytical approaches can break down. This perspective enables me to design solutions that are not only functional, but <b>robust, interpretable, and grounded in real-world constraints</b>.
 </p>
 
 

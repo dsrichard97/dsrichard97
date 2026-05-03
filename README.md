@@ -48,30 +48,8 @@ intersection of <b>econometrics, machine learning, and high-dimensional data ana
 </div>
 
 
-
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,notion,ts,react,nextjs,r,nodejs,express,laravel,mysql,planetscale,git,vscode,linkedin,vercel,latex,cloudflare,prisma&perline=6" />
-</a>
-</p>
-
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
 <div align="center">
-    Made with ❤️ <a href="https://github.com/dsrichard97" target="_blank"> </a>
+    Made with ❤️. Find Success in the Struggle. If you are strugggling, you are improving! <a href="https://github.com/dsrichard97" target="_blank"> </a>
 </div>
 
 <!--x axis divider-->

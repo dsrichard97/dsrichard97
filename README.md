@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Richard’s GitHub
+  Welcome to Richard’s GitHub <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count">
 </h3>
 
 <p align="center">

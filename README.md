@@ -29,6 +29,9 @@
   <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
 
 </div>
+<!--x axis divider-->
+<img src="/assets/images/horizontal-divider-gradient.gif">
+
 <p>
 <b>Financial Analyst</b> with 3+ years of experience operating at the intersection of 
 <b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured thought frameworks(company infastructure + market dynamics)—leveraging data and finance <b>ETL pipelines(Databases), modeling(APPs to run models), automation(end-user viability), and data visualizations(Dashboards)</b> 

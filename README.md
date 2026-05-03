@@ -1,5 +1,5 @@
 <h1 align="center"> 🚘 Hi, I'm Richard! 🚘 </h1>
-<h3 align="center"> 📜 Favorite Quote: " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
+
 
 <div>
   <h2 align="center">🔭 About Me <img src="https://komarev.com/ghpvc/?username=dsrichard97&color=blue" title="Page View Count"></h2>
@@ -44,34 +44,7 @@
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">🔥Quick Overview🔥</h3>
-<ul>
-  <li>🚀 <b>Professional Overview</b>
-    <ul>
-      <li>💼 <b>Career</b>
-        <ul>
-          <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Financial Planning Analyst, Finance</li>
-          <li><a href="https://about.kaiserpermanente.org/">Kaiser Permanente</a> / Data Scientist Intern, Enterprise & Finance</li>
-          <li><a href="https://web.nmusd.us/">Newport Mesa USD</a> / Math Tutor</li>
-        </ul>
-      </li>
-      <li>📚 <b>Education</b>
-        <ul>
-          <li><a href="https://www.csulb.edu/mathematics-statistics/applied-statistics-graduate-program">CSU Long Beach</a> / MS Applied Statistics</li>
-          <li><a href="https://www.fullerton.edu/MATH/">CSU Fullerton</a> / BA Applied Mathematics</li>
-          <li><a href="https://sac.edu/AcademicProgs/ScienceMathHealth/Mathematics/Pages/default.aspx">Santa Ana College</a> / AS Mathematics</li>
-        </ul>
-      </li>
-      <li>📦 <b>Specialization &amp; Expertise</b>
-        <ul>
-          <li>Data Migration | Data Governance &amp; Security | Data Manipulation | Data Quality &amp; Validation</li>
-          <li>Data Analytics</li>
-          <li>Machine Learning</li>
-          <li>Data Visualization &amp; Presentation</li>
-        </ul>
-      </li>
-    </ul>
-</ul>
+<h3 align="center"> 📜 Favorite Quote: " All I want to know is where I'm going to be wrong. " - Charlie Munger</h3>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

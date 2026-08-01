@@ -18,18 +18,23 @@
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
-<h3 align="center">🔭 About Me 🔭</h3>
-<p>
-<b>Financial Analyst</b> with 3+ years of experience operating at the intersection of 
-<b>data, finance, and support descision making</b>. I support and shed light on overlooked business problems into structured thought frameworks(company infastructure + market dynamics)—leveraging data and finance <b>ETL pipelines(Databases), modeling(APPs to run models), automation(end-user viability), and data visualizations(Dashboards)</b> 
-to help drive measurable outcomes.
-</p>
+<h3 align="center">📊 About Me</h3>
+
 
 
 <p>
-My work extends beyond traditional reporting(GAAP reporting). I focus on <b>understanding underlying systems</b>—how data is generated and cleaned(communicating with IT/Security) 🧹, how assumptions propagate through models(team/devs) 🤖, and where analytical approaches can break down. This perspective enables me to design solutions that are not only functional, but <b>robust, interpretable, and grounded in real-world constraints</b>.
+
+I'm a <b>Business Intelligence & Financial Analytics Professional</b> with 3+ years of experience transforming complex data into actionable business insights. My background combines <b>Applied Mathematics</b>, <b>Applied Statistics</b>, <b>Financial Planning & Analysis (FP&A)</b>, and <b>Business Intelligence</b> to help organizations make informed strategic and operational decisions.
+
 </p>
 
+
+
+<p>
+
+I specialize in designing <b>end-to-end analytics solutions</b>—from SQL databases and data modeling to Python automation, Power BI dashboards, forecasting, and executive KPI reporting. My work focuses on building reliable data pipelines, creating scalable analytical workflows, and delivering insights that improve financial performance and operational efficiency. On my free time, I try to catch up on reading and staying active outdoors. 
+
+</p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">

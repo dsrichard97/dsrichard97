@@ -41,7 +41,7 @@ I specialize in designing <b>end-to-end analytics solutions</b>—from SQL datab
 
 <h3 align="center">🤝 Advice 🤝</h3>
 <p align="center">
-  Advice for future financial analysts and interns: 
+  Advice for interns: 
   <strong>Follow the 3 Q's</strong> (Developed from common LinkedIn inquiries).
 </p>
 

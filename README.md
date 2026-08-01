@@ -55,7 +55,13 @@ I specialize in designing <b>end-to-end analytics solutions</b>—from SQL datab
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    PS: Find success 😊 in the struggle. 💡🥼🏂 Be diiferent. Made with ❤️ <a href="https://github.com/dsrichard97" target="_blank"> </a>
+    "The obstacle is the way." — Marcus Aurelius
+    <br>
+    <br>
+    Building solutions through data, curiosity, and continuous improvement. 📊💡
+    <br>
+    Made with ❤️
+    <a href="https://github.com/dsrichard97" target="_blank"></a>
 </div>
 
 <!--x axis divider-->

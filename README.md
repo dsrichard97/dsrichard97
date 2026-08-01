@@ -60,8 +60,6 @@ I specialize in designing <b>end-to-end analytics solutions</b>—from SQL datab
     <br>
     Building solutions through data, curiosity, and continuous improvement. 📊💡
     <br>
-    Made with ❤️
-    <a href="https://github.com/dsrichard97" target="_blank"></a>
 </div>
 
 <!--x axis divider-->

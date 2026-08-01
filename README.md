@@ -39,16 +39,27 @@ I specialize in designing <b>end-to-end analytics solutions</b>—from SQL datab
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-<h3 align="center">🤝 Advice 🤝</h3>
+<h3 align="center">🧠 Analytical Principles 🧠</h3>
+
 <p align="center">
-  Advice for interns: 
-  <strong>Follow the 3 Q's</strong> (Developed from common LinkedIn inquiries).
+  My approach to solving complex problems is built around three principles:
 </p>
 
 <div align="center">
-  <p>✔️ <strong>Question</strong> everything—interrogate assumptions to separate objective truths from noise.</p>
-  <p>✔️ <strong>Quantify</strong> your experiences using both holistic data(past experiences) and heuristic frameworks(systems currently in place).</p>
-  <p>✔️ <strong>Qualify</strong> the habits behind your decisions(past inputs), identifying if they were proactive or reactive.</p>
+  <p>
+    🔍 <strong>Question</strong> assumptions — 
+    Understand the problem before building the solution.
+  </p>
+
+  <p>
+    📊 <strong>Quantify</strong> impact — 
+    Use data, metrics, and evidence to transform ideas into measurable outcomes.
+  </p>
+
+  <p>
+    ⚙️ <strong>Qualify</strong> decisions — 
+    Understand the context, constraints, and systems behind every outcome.
+  </p>
 </div>
 
 <!--x axis divider-->
